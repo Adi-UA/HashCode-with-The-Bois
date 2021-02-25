@@ -1,0 +1,8891 @@
+1662
+0
+1
+cd-a 44
+1
+2
+dab-b 44
+ehb-b 44
+2
+6
+bi-c 44
+di-c 44
+bih-c 44
+dgc-c 44
+fcd-c 44
+dgj-c 44
+3
+6
+cd-d 44
+bjg-d 44
+cbd-d 44
+hcj-d 44
+ii-d 44
+bcb-d 44
+4
+3
+d-e 44
+cba-e 44
+hic-e 44
+5
+7
+e-f 44
+bc-f 44
+ff-f 44
+bda-f 44
+jcc-f 44
+jbb-f 44
+bdjf-f 44
+6
+6
+bfg-g 44
+ehc-g 44
+iee-g 44
+eie-g 44
+gic-g 44
+bedj-g 44
+7
+1
+bfa-h 44
+8
+3
+geg-i 44
+gie-i 44
+bahi-i 44
+9
+4
+bi-j 44
+ce-j 44
+heg-j 44
+fbj-j 44
+10
+2
+bdi-ba 44
+dhf-ba 44
+11
+8
+bae-bb 44
+gc-bb 44
+bcb-bb 44
+bee-bb 44
+cd-bb 44
+bcea-bb 44
+bcef-bb 44
+bgf-bb 44
+12
+6
+ddf-bc 44
+ccj-bc 44
+dgf-bc 44
+baid-bc 44
+hbf-bc 44
+daa-bc 44
+13
+3
+cch-bd 44
+cjb-bd 44
+bejh-bd 44
+14
+4
+fec-be 44
+bbbj-be 44
+babg-be 44
+beai-be 44
+15
+2
+hi-bf 44
+dh-bf 44
+16
+7
+bi-bg 44
+jf-bg 44
+iag-bg 44
+fib-bg 44
+gge-bg 44
+bdii-bg 44
+baae-bg 44
+17
+3
+hjd-bh 44
+ihi-bh 44
+bgeh-bh 44
+18
+5
+bc-bi 44
+feh-bi 44
+hej-bi 44
+fic-bi 44
+babg-bi 44
+19
+8
+bc-bj 44
+ch-bj 44
+dg-bj 44
+db-bj 44
+dhf-bj 44
+cii-bj 44
+hcj-bj 44
+bdbf-bj 44
+20
+4
+cd-ca 44
+bai-ca 44
+dfg-ca 44
+gjh-ca 44
+21
+3
+dcc-cb 44
+did-cb 44
+edb-cb 44
+22
+4
+ff-cc 44
+dgf-cc 44
+jgi-cc 44
+badc-cc 44
+23
+6
+bhd-cd 44
+fae-cd 44
+dbg-cd 44
+gfa-cd 44
+ffb-cd 44
+bcaj-cd 44
+24
+4
+bi-ce 44
+ef-ce 44
+jgf-ce 44
+jag-ce 44
+25
+5
+cc-cf 44
+fhg-cf 44
+eac-cf 44
+bbci-cf 44
+def-cf 44
+26
+7
+ca-cg 44
+eh-cg 44
+chb-cg 44
+deg-cg 44
+deb-cg 44
+bd-cg 44
+hhc-cg 44
+27
+6
+cd-ch 44
+bjd-ch 44
+dji-ch 44
+ddb-ch 44
+hch-ch 44
+jgg-ch 44
+28
+5
+hif-ci 44
+gbg-ci 44
+befi-ci 44
+bffg-ci 44
+hfh-ci 44
+29
+3
+egd-cj 44
+fbi-cj 44
+bfgd-cj 44
+30
+8
+ea-da 44
+bhd-da 44
+eej-da 44
+bdf-da 44
+gda-da 44
+fai-da 44
+bcei-da 44
+beib-da 44
+31
+7
+bc-db 44
+cd-db 44
+gi-db 44
+bgj-db 44
+cbh-db 44
+cfj-db 44
+bbde-db 44
+32
+6
+ecg-dc 44
+iag-dc 44
+jbf-dc 44
+iej-dc 44
+ifh-dc 44
+bbgj-dc 44
+33
+3
+fc-dd 44
+dfg-dd 44
+babg-dd 44
+34
+4
+di-de 44
+bhe-de 44
+ghj-de 44
+eih-de 44
+35
+5
+gc-df 44
+igi-df 44
+iei-df 44
+ibf-df 44
+bfgb-df 44
+36
+8
+cee-dg 44
+bed-dg 44
+hah-dg 44
+bcii-dg 44
+bdfc-dg 44
+bcag-dg 44
+bebe-dg 44
+bgfe-dg 44
+37
+5
+dc-dh 44
+db-dh 44
+hha-dh 44
+gcd-dh 44
+bagf-dh 44
+38
+1
+haf-di 44
+39
+3
+cbh-dj 44
+ef-dj 44
+gdb-dj 44
+40
+6
+dbb-ea 44
+cgg-ea 44
+jjh-ea 44
+jff-ea 44
+eee-ea 44
+fda-ea 44
+41
+3
+hac-eb 44
+cdi-eb 44
+bbfc-eb 44
+42
+5
+fi-ec 44
+fc-ec 44
+ege-ec 44
+ci-ec 44
+cdc-ec 44
+43
+5
+eb-ed 44
+ech-ed 44
+edf-ed 44
+bcia-ed 44
+bfdc-ed 44
+44
+3
+ejg-ee 44
+cfb-ee 44
+bacc-ee 44
+45
+7
+bgd-ef 44
+bgb-ef 44
+cij-ef 44
+egh-ef 44
+ige-ef 44
+cih-ef 44
+beeh-ef 44
+46
+5
+bcd-eg 44
+bdj-eg 44
+cbg-eg 44
+ffd-eg 44
+ggg-eg 44
+47
+5
+bjb-eh 44
+fdd-eh 44
+bbfg-eh 44
+gdh-eh 44
+bbei-eh 44
+48
+6
+bb-ei 44
+cbh-ei 44
+dff-ei 44
+bbje-ei 44
+jfj-ei 44
+bcjf-ei 44
+49
+3
+cd-ej 44
+jia-ej 44
+baig-ej 44
+50
+6
+bcb-fa 44
+hg-fa 44
+bc-fa 44
+bhg-fa 44
+jji-fa 44
+dhe-fa 44
+51
+3
+bdc-fb 44
+dfa-fb 44
+bcch-fb 44
+52
+5
+jb-fc 44
+bcj-fc 44
+eab-fc 44
+fif-fc 44
+bfch-fc 44
+53
+4
+je-fd 44
+dd-fd 44
+daf-fd 44
+dhe-fd 44
+54
+1
+jic-fe 44
+55
+7
+ic-ff 44
+bdf-ff 44
+dbd-ff 44
+bed-ff 44
+cje-ff 44
+bdcg-ff 44
+gb-ff 44
+56
+1
+bfaf-fg 44
+57
+7
+d-fh 44
+bdb-fh 44
+ccb-fh 44
+jh-fh 44
+jie-fh 44
+jjd-fh 44
+bejb-fh 44
+58
+3
+fg-fi 44
+hee-fi 44
+bfdg-fi 44
+59
+7
+ff-fj 44
+bea-fj 44
+dbg-fj 44
+ddg-fj 44
+hfh-fj 44
+ifd-fj 44
+bcha-fj 44
+60
+6
+cg-ga 44
+cih-ga 44
+dac-ga 44
+eah-ga 44
+bi-ga 44
+fga-ga 44
+61
+2
+bbeb-gb 44
+bbjc-gb 44
+62
+6
+e-gc 44
+j-gc 44
+bga-gc 44
+eie-gc 44
+bdfa-gc 44
+gge-gc 44
+63
+8
+dbf-gd 44
+cfj-gd 44
+dai-gd 44
+icd-gd 44
+je-gd 44
+daj-gd 44
+gfb-gd 44
+bfgc-gd 44
+64
+2
+g-ge 44
+dfi-ge 44
+65
+1
+cgh-gf 44
+66
+5
+jdj-gg 44
+cdh-gg 44
+jhg-gg 44
+idf-gg 44
+bfjf-gg 44
+67
+3
+bh-gh 44
+jci-gh 44
+bddh-gh 44
+68
+3
+cbe-gi 44
+bcff-gi 44
+ch-gi 44
+69
+3
+edh-gj 44
+gjj-gj 44
+baad-gj 44
+70
+3
+bda-ha 44
+db-ha 44
+ecc-ha 44
+71
+2
+efh-hb 44
+iaa-hb 44
+72
+4
+gg-hc 44
+cif-hc 44
+dbf-hc 44
+ejc-hc 44
+73
+1
+ch-hd 174
+7
+bcd-he 44
+bgi-he 44
+gij-he 44
+gig-he 44
+bcjc-he 44
+bebb-he 44
+hc-he 44
+75
+4
+da-hf 44
+dah-hf 44
+hie-hf 44
+bdbc-hf 44
+76
+4
+dfj-hg 44
+bja-hg 44
+gbd-hg 44
+cgj-hg 44
+77
+7
+bdh-hh 44
+caa-hh 44
+cae-hh 44
+bjb-hh 44
+jae-hh 44
+gcj-hh 44
+beic-hh 44
+78
+5
+fa-hi 44
+bac-hi 44
+ihf-hi 44
+baec-hi 44
+iba-hi 44
+79
+3
+di-hj 44
+gfg-hj 44
+jfc-hj 44
+80
+4
+di-ia 44
+ccc-ia 44
+bdjd-ia 44
+bfeh-ia 44
+81
+4
+gia-ib 44
+ghd-ib 44
+dea-ib 44
+dad-ib 44
+82
+3
+cgi-ic 44
+fdf-ic 44
+bedh-ic 44
+83
+4
+ej-id 44
+ebd-id 44
+gbg-id 44
+eab-id 44
+84
+5
+bjd-ie 44
+dej-ie 44
+haj-ie 44
+fbb-ie 44
+eeh-ie 44
+85
+3
+di-if 44
+bcge-if 44
+bfce-if 44
+86
+2
+egf-ig 44
+baif-ig 44
+87
+3
+bba-ih 44
+cgh-ih 44
+bcfj-ih 44
+88
+6
+chf-ii 44
+eig-ii 44
+bacd-ii 44
+dgc-ii 44
+bacj-ii 44
+bgfi-ii 44
+89
+4
+dbi-ij 44
+fbc-ij 44
+bcd-ij 44
+ife-ij 44
+90
+3
+bei-ja 44
+fef-ja 44
+hij-ja 44
+91
+4
+jc-jb 44
+bhe-jb 44
+bc-jb 44
+ehi-jb 44
+92
+6
+hj-jc 44
+gbe-jc 44
+gii-jc 44
+fci-jc 44
+babi-jc 44
+bbjg-jc 44
+93
+2
+cae-jd 44
+fhj-jd 44
+94
+6
+bbi-je 44
+bi-je 44
+fcf-je 44
+bfc-je 44
+gdf-je 44
+bfgb-je 44
+95
+3
+dfc-jf 44
+iae-jf 44
+gbd-jf 44
+96
+3
+ec-jg 44
+beb-jg 44
+daf-jg 44
+97
+6
+ei-jh 44
+ecj-jh 44
+bcbf-jh 44
+dai-jh 44
+hib-jh 44
+bbfg-jh 44
+98
+5
+gbe-ji 44
+idd-ji 44
+bccj-ji 44
+bdjh-ji 44
+beaa-ji 44
+99
+3
+dej-jj 44
+bcee-jj 44
+fgf-jj 44
+100
+5
+bfg-baa 44
+dfi-baa 44
+fhg-baa 44
+efg-baa 44
+dig-baa 44
+101
+4
+chf-bab 44
+ede-bab 44
+jhg-bab 44
+eic-bab 44
+102
+5
+hj-bac 44
+da-bac 44
+hfi-bac 44
+gja-bac 44
+bfe-bac 44
+103
+3
+bfi-bad 44
+bha-bad 44
+jid-bad 44
+104
+4
+cd-bae 44
+bdga-bae 44
+dgj-bae 44
+ceg-bae 44
+105
+5
+cgb-baf 44
+cbg-baf 44
+bcb-baf 44
+cj-baf 44
+bdbh-baf 44
+106
+7
+bcc-bag 44
+dad-bag 44
+ede-bag 44
+fic-bag 44
+bbfi-bag 44
+baab-bag 44
+bfce-bag 44
+107
+6
+deg-bah 44
+ddf-bah 44
+hbf-bah 44
+bbcc-bah 44
+ifd-bah 44
+gjh-bah 44
+108
+2
+bda-bai 44
+cfj-bai 44
+109
+6
+db-baj 44
+bda-baj 44
+ddb-baj 44
+chf-baj 44
+eg-baj 44
+cjg-baj 44
+110
+5
+hi-bba 44
+je-bba 44
+dic-bba 44
+gdc-bba 44
+fbe-bba 44
+111
+4
+bdh-bbb 44
+edb-bbb 44
+fdh-bbb 44
+d-bbb 44
+112
+5
+dbb-bbc 44
+jje-bbc 44
+gbg-bbc 44
+chf-bbc 44
+dgb-bbc 44
+113
+2
+bja-bbd 44
+gca-bbd 44
+114
+3
+cie-bbe 44
+ehd-bbe 44
+cb-bbe 44
+115
+5
+fj-bbf 44
+bej-bbf 44
+dfc-bbf 44
+bage-bbf 44
+bei-bbf 44
+116
+6
+cbd-bbg 44
+bbbj-bbg 44
+gdc-bbg 44
+eba-bbg 44
+eg-bbg 44
+iff-bbg 44
+117
+3
+ehi-bbh 44
+gjh-bbh 44
+bacc-bbh 44
+118
+9
+bca-bbi 44
+cea-bbi 44
+beb-bbi 44
+ib-bbi 44
+gfd-bbi 44
+cbb-bbi 44
+ige-bbi 44
+bech-bbi 44
+beeh-bbi 44
+119
+7
+bbf-bbj 44
+gjh-bbj 44
+eh-bbj 44
+baja-bbj 44
+bbag-bbj 44
+fag-bbj 44
+ige-bbj 44
+120
+6
+cc-bca 44
+bae-bca 44
+eae-bca 44
+gae-bca 44
+cji-bca 44
+gaf-bca 44
+121
+4
+bbdg-bcb 44
+fba-bcb 44
+bdea-bcb 44
+bbgc-bcb 44
+122
+7
+bjd-bcc 44
+jg-bcc 44
+gfi-bcc 44
+hgb-bcc 44
+bebg-bcc 44
+bbab-bcc 44
+bbff-bcc 44
+123
+5
+gc-bcd 44
+ddj-bcd 44
+jec-bcd 44
+eed-bcd 44
+iie-bcd 44
+124
+8
+bb-bce 44
+ccc-bce 44
+fed-bce 44
+gef-bce 44
+edi-bce 44
+bi-bce 44
+bagd-bce 44
+gc-bce 44
+125
+4
+deg-bcf 44
+cea-bcf 44
+ddj-bcf 44
+gih-bcf 44
+126
+7
+di-bcg 44
+dbg-bcg 44
+cah-bcg 44
+bhj-bcg 44
+g-bcg 44
+hcj-bcg 44
+dgg-bcg 44
+127
+6
+bfc-bch 44
+dfd-bch 44
+ecb-bch 44
+gad-bch 44
+fbh-bch 44
+bgbf-bch 44
+128
+7
+bbc-bci 44
+fi-bci 44
+fag-bci 44
+bagb-bci 44
+bbhe-bci 44
+bcbc-bci 44
+bbf-bci 44
+129
+7
+bbf-bcj 44
+bah-bcj 44
+cjh-bcj 44
+eac-bcj 44
+iff-bcj 44
+cjg-bcj 44
+icj-bcj 44
+130
+6
+ia-bda 44
+fbe-bda 44
+dhg-bda 44
+eh-bda 44
+ffa-bda 44
+dfj-bda 44
+131
+8
+bfc-bdb 44
+djh-bdb 44
+bhb-bdb 44
+cda-bdb 44
+fib-bdb 44
+jbg-bdb 44
+efd-bdb 44
+deh-bdb 44
+132
+9
+bec-bdc 44
+fee-bdc 44
+bbfe-bdc 44
+bbjh-bdc 44
+bbah-bdc 44
+fdc-bdc 44
+jbg-bdc 44
+cfc-bdc 44
+bfea-bdc 44
+133
+5
+bja-bdd 44
+efa-bdd 44
+bcgc-bdd 44
+bjf-bdd 44
+bece-bdd 44
+134
+6
+bdh-bde 44
+hhi-bde 44
+iah-bde 44
+bba-bde 44
+gge-bde 44
+beec-bde 44
+135
+6
+hc-bdf 44
+bhe-bdf 44
+gbf-bdf 44
+gea-bdf 44
+hcg-bdf 44
+bbab-bdf 44
+136
+8
+bcc-bdg 44
+ch-bdg 44
+dhi-bdg 44
+jdg-bdg 44
+bahh-bdg 44
+djj-bdg 44
+cha-bdg 44
+bbij-bdg 44
+137
+4
+edg-bdh 44
+feh-bdh 44
+ce-bdh 44
+jjg-bdh 44
+138
+6
+ich-bdi 44
+gci-bdi 44
+iic-bdi 44
+bcfj-bdi 44
+bffi-bdi 44
+jbe-bdi 44
+139
+7
+ffb-bdj 44
+igb-bdj 44
+igg-bdj 44
+bbbh-bdj 44
+jfe-bdj 44
+geh-bdj 44
+hhc-bdj 44
+140
+4
+dgb-bea 44
+dgc-bea 44
+cdh-bea 44
+fif-bea 44
+141
+8
+cbg-beb 44
+cbe-beb 44
+fe-beb 44
+dci-beb 44
+edh-beb 44
+ffd-beb 44
+djg-beb 44
+hia-beb 44
+142
+8
+hj-bec 44
+eei-bec 44
+bdh-bec 44
+ii-bec 44
+ica-bec 44
+bdei-bec 44
+hff-bec 44
+hea-bec 44
+143
+6
+bhc-bed 44
+cfa-bed 44
+ica-bed 44
+feh-bed 44
+cd-bed 44
+begd-bed 44
+144
+5
+cfa-bee 44
+gjd-bee 44
+dfg-bee 44
+bbej-bee 44
+bgbe-bee 44
+145
+4
+bjd-bef 44
+dai-bef 44
+jei-bef 44
+fgj-bef 44
+146
+5
+bja-beg 44
+ea-beg 44
+bef-beg 44
+fei-beg 44
+hgd-beg 44
+147
+9
+hi-beh 44
+ef-beh 44
+bab-beh 44
+cia-beh 44
+ih-beh 44
+ccg-beh 44
+ieh-beh 44
+gdd-beh 44
+jbj-beh 44
+148
+5
+fge-bei 44
+jbi-bei 44
+bcgi-bei 44
+becg-bei 44
+jca-bei 44
+149
+5
+cdi-bej 44
+bdb-bej 44
+dbi-bej 44
+bec-bej 44
+fif-bej 44
+150
+5
+ddd-bfa 44
+cjd-bfa 44
+egg-bfa 44
+cdf-bfa 44
+ifi-bfa 44
+151
+2
+fda-bfb 44
+bdji-bfb 44
+152
+9
+dhb-bfc 44
+cdb-bfc 44
+fbb-bfc 44
+cei-bfc 44
+fcb-bfc 44
+ifh-bfc 44
+gbi-bfc 44
+dcb-bfc 44
+bafi-bfc 44
+153
+4
+bif-bfd 44
+cie-bfd 44
+haa-bfd 44
+jgi-bfd 44
+154
+5
+cgh-bfe 44
+hff-bfe 44
+baea-bfe 44
+dch-bfe 44
+gbc-bfe 44
+155
+4
+fdh-bff 44
+gfe-bff 44
+eec-bff 44
+bcie-bff 44
+156
+8
+bef-bfg 44
+hj-bfg 44
+fh-bfg 44
+dae-bfg 44
+be-bfg 44
+efi-bfg 44
+hhe-bfg 44
+bgac-bfg 44
+157
+4
+baf-bfh 44
+bae-bfh 44
+eaa-bfh 44
+gcj-bfh 44
+158
+7
+bacf-bfi 44
+ich-bfi 44
+idg-bfi 44
+jhe-bfi 44
+gaa-bfi 44
+ecj-bfi 44
+bgci-bfi 44
+159
+5
+ded-bfj 44
+gce-bfj 44
+gif-bfj 44
+jjj-bfj 44
+bii-bfj 44
+160
+3
+dij-bga 44
+efe-bga 44
+hbd-bga 44
+161
+6
+dff-bgb 44
+hea-bgb 44
+bahe-bgb 44
+bcga-bgb 44
+bedd-bgb 44
+cgc-bgb 44
+162
+7
+fd-bgc 44
+cdb-bgc 44
+ehc-bgc 44
+cff-bgc 44
+ffi-bgc 44
+cgd-bgc 44
+bdeh-bgc 44
+163
+5
+f-bgd 44
+gd-bgd 44
+edg-bgd 44
+dbj-bgd 44
+bgdh-bgd 44
+164
+3
+d-bge 44
+hci-bge 44
+jif-bge 44
+165
+4
+bie-bgf 44
+bd-bgf 44
+baih-bgf 44
+iaa-bgf 44
+166
+6
+id-bgg 44
+babe-bgg 44
+ehg-bgg 44
+bcaa-bgg 44
+heh-bgg 44
+bdde-bgg 44
+167
+5
+dbg-bgh 44
+cej-bgh 44
+cgg-bgh 44
+be-bgh 44
+bfgh-bgh 44
+168
+8
+cej-bgi 44
+baa-bgi 44
+eij-bgi 44
+bhh-bgi 44
+bc-bgi 44
+cbi-bgi 44
+dda-bgi 44
+daj-bgi 44
+169
+5
+djh-bgj 44
+hbh-bgj 44
+jai-bgj 44
+hch-bgj 44
+bffe-bgj 44
+170
+8
+fh-bha 44
+ccd-bha 44
+ddd-bha 44
+edd-bha 44
+bff-bha 44
+bde-bha 44
+bi-bha 44
+gi-bha 44
+171
+6
+jh-bhb 44
+cda-bhb 44
+ih-bhb 44
+hhd-bhb 44
+fcb-bhb 44
+bfbi-bhb 44
+172
+6
+bfe-bhc 44
+edf-bhc 44
+eje-bhc 44
+gfg-bhc 44
+bbfd-bhc 44
+bagf-bhc 44
+173
+4
+bcb-bhd 44
+hj-bhd 44
+gii-bhd 44
+eed-bhd 44
+174
+5
+bgj-bhe 44
+chd-bhe 44
+ebi-bhe 44
+cfe-bhe 44
+daa-bhe 44
+175
+6
+dgi-bhf 44
+ech-bhf 44
+cgi-bhf 44
+ca-bhf 44
+jga-bhf 44
+bci-bhf 44
+176
+7
+cbg-bhg 44
+bci-bhg 44
+cfi-bhg 44
+baf-bhg 44
+cdi-bhg 44
+iga-bhg 44
+babb-bhg 44
+177
+4
+cbc-bhh 44
+cch-bhh 44
+efe-bhh 44
+bai-bhh 44
+178
+5
+cdb-bhi 44
+eaj-bhi 44
+ibh-bhi 44
+gbb-bhi 44
+bacb-bhi 44
+179
+7
+hg-bhj 44
+fha-bhj 44
+ghd-bhj 44
+cb-bhj 44
+dbf-bhj 44
+bafb-bhj 44
+hbc-bhj 44
+180
+4
+hi-bia 44
+cch-bia 44
+dac-bia 44
+bjg-bia 44
+181
+3
+hjj-bib 44
+fhc-bib 44
+eae-bib 44
+182
+4
+dc-bic 44
+baa-bic 44
+hdc-bic 44
+eee-bic 44
+183
+4
+dec-bid 44
+beh-bid 44
+bef-bid 44
+bajd-bid 44
+184
+11
+bbc-bie 44
+bae-bie 44
+bef-bie 44
+dbe-bie 44
+bcc-bie 44
+cdc-bie 44
+cfe-bie 44
+hdd-bie 44
+eig-bie 44
+bde-bie 44
+bcai-bie 44
+185
+5
+cji-bif 44
+je-bif 44
+bahf-bif 44
+babf-bif 44
+bgcg-bif 44
+186
+2
+deg-big 44
+bdde-big 44
+187
+4
+ccj-bih 44
+dcf-bih 44
+hef-bih 44
+bcff-bih 44
+188
+5
+dfa-bii 44
+bga-bii 44
+ejd-bii 44
+caj-bii 44
+bcej-bii 44
+189
+6
+bcj-bij 44
+eab-bij 44
+cha-bij 44
+gfi-bij 44
+cia-bij 44
+ba-bij 44
+190
+3
+dig-bja 44
+ded-bja 44
+dca-bja 44
+191
+4
+db-bjb 44
+bbee-bjb 44
+bcdb-bjb 44
+fed-bjb 44
+192
+5
+ibe-bjc 44
+bagc-bjc 44
+eia-bjc 44
+baad-bjc 44
+ggh-bjc 44
+193
+5
+di-bjd 44
+gd-bjd 44
+bij-bjd 44
+hdg-bjd 44
+ghb-bjd 44
+194
+4
+dgf-bje 44
+eja-bje 44
+ecd-bje 44
+cga-bje 44
+195
+6
+hie-bjf 44
+hii-bjf 44
+ecg-bjf 44
+baff-bjf 44
+bccc-bjf 44
+hic-bjf 44
+196
+3
+cec-bjg 44
+dih-bjg 44
+df-bjg 44
+197
+6
+bcb-bjh 44
+eah-bjh 44
+cd-bjh 44
+gfd-bjh 44
+jeb-bjh 44
+djg-bjh 44
+198
+4
+dbg-bji 44
+cgh-bji 44
+fdj-bji 44
+beeb-bji 44
+199
+4
+jhe-bjj 44
+edg-bjj 44
+gci-bjj 44
+baad-bjj 44
+200
+6
+dhc-caa 44
+jgd-caa 44
+ecb-caa 44
+bafd-caa 44
+hfg-caa 44
+djj-caa 44
+201
+6
+bdg-cab 44
+daf-cab 44
+bef-cab 44
+cjd-cab 44
+jca-cab 44
+jbg-cab 44
+202
+5
+cgd-cac 44
+djc-cac 44
+bbdh-cac 44
+dbf-cac 44
+fid-cac 44
+203
+3
+edd-cad 44
+ege-cad 44
+icg-cad 44
+204
+8
+cci-cae 44
+bea-cae 44
+gdi-cae 44
+chb-cae 44
+bcb-cae 44
+jcd-cae 44
+bccg-cae 44
+hhb-cae 44
+205
+3
+bafb-caf 44
+gag-caf 44
+ghc-caf 44
+206
+4
+bbg-cag 44
+cie-cag 44
+fbi-cag 44
+ebb-cag 44
+207
+6
+cce-cah 44
+fde-cah 44
+fac-cah 44
+ih-cah 44
+bahc-cah 44
+bebe-cah 44
+208
+2
+jda-cai 44
+gdb-cai 44
+209
+4
+jh-caj 44
+eba-caj 44
+eji-caj 44
+ghh-caj 44
+210
+4
+bfi-cba 44
+bccb-cba 44
+bbjf-cba 44
+bgdd-cba 44
+211
+5
+ca-cbb 44
+be-cbb 44
+da-cbb 44
+cge-cbb 44
+ihc-cbb 44
+212
+2
+efg-cbc 44
+bcdg-cbc 44
+213
+8
+ehe-cbd 44
+bif-cbd 44
+chb-cbd 44
+eag-cbd 44
+bcdc-cbd 44
+cec-cbd 44
+jej-cbd 44
+jfc-cbd 44
+214
+1
+bbcc-cbe 44
+215
+3
+ceb-cbf 44
+cdj-cbf 44
+bff-cbf 44
+216
+4
+bdg-cbg 44
+hjj-cbg 44
+bbfi-cbg 44
+becj-cbg 44
+217
+5
+ej-cbh 44
+bfg-cbh 44
+caj-cbh 44
+bhi-cbh 44
+jhi-cbh 44
+218
+3
+bdi-cbi 44
+ede-cbi 44
+ebh-cbi 44
+219
+5
+db-cbj 44
+dcf-cbj 44
+hi-cbj 44
+jec-cbj 44
+gjj-cbj 44
+220
+6
+cbe-cca 44
+bbi-cca 44
+ihg-cca 44
+ehi-cca 44
+bbdb-cca 44
+eea-cca 44
+221
+6
+bjj-ccb 44
+eig-ccb 44
+ejj-ccb 44
+d-ccb 44
+ddd-ccb 44
+jeh-ccb 44
+222
+3
+eag-ccc 44
+bcda-ccc 44
+jfh-ccc 44
+223
+6
+cjf-ccd 44
+ecd-ccd 44
+dhh-ccd 44
+eae-ccd 44
+feh-ccd 44
+bajb-ccd 44
+224
+4
+bdc-cce 44
+daf-cce 44
+hdf-cce 44
+bceh-cce 44
+225
+7
+dca-ccf 44
+hcc-ccf 44
+ghd-ccf 44
+jeg-ccf 44
+ihi-ccf 44
+ga-ccf 44
+bfdd-ccf 44
+226
+7
+bih-ccg 44
+fhh-ccg 44
+ide-ccg 44
+hde-ccg 44
+ijd-ccg 44
+bahi-ccg 44
+hjh-ccg 44
+227
+4
+bhe-cch 44
+baaf-cch 44
+ice-cch 44
+egd-cch 44
+228
+4
+ceb-cci 44
+haf-cci 44
+bgbg-cci 44
+bbfd-cci 44
+229
+6
+cch-ccj 44
+eeb-ccj 44
+gdf-ccj 44
+hji-ccj 44
+bch-ccj 44
+j-ccj 44
+230
+3
+dd-cda 44
+jae-cda 44
+ejd-cda 44
+231
+4
+fcf-cdb 44
+jaa-cdb 44
+bff-cdb 44
+ejg-cdb 44
+232
+6
+ccj-cdc 44
+gac-cdc 44
+eb-cdc 44
+fad-cdc 44
+ddj-cdc 44
+hjg-cdc 44
+233
+2
+db-cdd 44
+bebi-cdd 44
+234
+7
+bjb-cde 44
+fff-cde 44
+bi-cde 44
+bj-cde 44
+gge-cde 44
+hhb-cde 44
+bdia-cde 44
+235
+5
+iee-cdf 44
+fjc-cdf 44
+badh-cdf 44
+bhj-cdf 44
+dfa-cdf 44
+236
+6
+bdf-cdg 44
+eif-cdg 44
+cid-cdg 44
+gcf-cdg 44
+dff-cdg 44
+bfjd-cdg 44
+237
+3
+gd-cdh 44
+gfd-cdh 44
+bbja-cdh 44
+238
+4
+deb-cdi 44
+jbc-cdi 44
+j-cdi 44
+beha-cdi 44
+239
+3
+chh-cdj 44
+ega-cdj 44
+hgg-cdj 44
+240
+7
+if-cea 44
+be-cea 44
+cfi-cea 44
+cac-cea 44
+gbi-cea 44
+jaj-cea 44
+che-cea 44
+241
+6
+bch-ceb 44
+cii-ceb 44
+dfe-ceb 44
+bfj-ceb 44
+dhh-ceb 44
+bdea-ceb 44
+242
+4
+bdg-cec 44
+bbc-cec 44
+bajb-cec 44
+bad-cec 44
+243
+3
+cah-ced 44
+efg-ced 44
+bbgc-ced 44
+244
+3
+eej-cee 44
+jhc-cee 44
+ic-cee 44
+245
+4
+dab-cef 44
+bfi-cef 44
+bbec-cef 44
+bha-cef 44
+246
+4
+bfa-ceg 44
+cah-ceg 44
+iag-ceg 44
+gdg-ceg 44
+247
+4
+bje-ceh 44
+cic-ceh 44
+eeg-ceh 44
+gdd-ceh 44
+248
+5
+bfb-cei 44
+dgf-cei 44
+ehj-cei 44
+ddf-cei 44
+fhi-cei 44
+249
+8
+bda-cej 44
+ef-cej 44
+dif-cej 44
+gig-cej 44
+jej-cej 44
+bbee-cej 44
+bbeg-cej 44
+bh-cej 44
+250
+5
+eb-cfa 44
+gei-cfa 44
+hdi-cfa 44
+ice-cfa 44
+bdhb-cfa 44
+251
+7
+fc-cfb 44
+fgg-cfb 44
+g-cfb 44
+cea-cfb 44
+gje-cfb 44
+baga-cfb 44
+fhe-cfb 44
+252
+3
+eca-cfc 44
+gef-cfc 44
+ieg-cfc 44
+253
+6
+ccg-cfd 44
+cje-cfd 44
+geb-cfd 44
+a-cfd 44
+bchd-cfd 44
+bcdh-cfd 44
+254
+2
+jf-cfe 44
+ijc-cfe 44
+255
+5
+egj-cff 44
+hjf-cff 44
+bafc-cff 44
+hda-cff 44
+ejg-cff 44
+256
+4
+ej-cfg 44
+bbdg-cfg 44
+bfdb-cfg 44
+gic-cfg 44
+257
+7
+baj-cfh 44
+bee-cfh 44
+gbg-cfh 44
+cid-cfh 44
+fjh-cfh 44
+bbee-cfh 44
+cie-cfh 44
+258
+5
+eec-cfi 44
+chd-cfi 44
+badf-cfi 44
+bcfi-cfi 44
+dhi-cfi 44
+259
+6
+bd-cfj 44
+beb-cfj 44
+fh-cfj 44
+dib-cfj 44
+efb-cfj 44
+cfi-cfj 44
+260
+7
+dh-cga 44
+chf-cga 44
+cah-cga 44
+cgd-cga 44
+bhb-cga 44
+chj-cga 44
+bcjf-cga 44
+261
+5
+dch-cgb 44
+dhd-cgb 44
+da-cgb 44
+gdf-cgb 44
+deb-cgb 44
+262
+6
+fji-cgc 44
+hdb-cgc 44
+cdb-cgc 44
+ica-cgc 44
+ee-cgc 44
+hfc-cgc 44
+263
+6
+dcj-cgd 44
+dcf-cgd 44
+bec-cgd 44
+bafi-cgd 44
+bafd-cgd 44
+bajg-cgd 44
+264
+6
+fh-cge 44
+ea-cge 44
+cci-cge 44
+bfc-cge 44
+hai-cge 44
+bba-cge 44
+265
+5
+dej-cgf 44
+fcc-cgf 44
+gie-cgf 44
+ibe-cgf 44
+bgbh-cgf 44
+266
+5
+bii-cgg 44
+bdh-cgg 44
+fhc-cgg 44
+dib-cgg 44
+bgae-cgg 44
+267
+5
+hif-cgh 44
+cag-cgh 44
+babb-cgh 44
+bdhc-cgh 44
+hc-cgh 44
+268
+5
+daf-cgi 44
+djh-cgi 44
+fdh-cgi 44
+ia-cgi 44
+baaa-cgi 44
+269
+4
+eag-cgj 44
+dgg-cgj 44
+fei-cgj 44
+ifi-cgj 44
+270
+6
+dcb-cha 44
+bhi-cha 44
+dhj-cha 44
+egj-cha 44
+gfh-cha 44
+ged-cha 44
+271
+3
+eci-chb 44
+fff-chb 44
+bcbi-chb 44
+272
+5
+fjc-chc 44
+hba-chc 44
+jfb-chc 44
+jhd-chc 44
+bbfj-chc 44
+273
+4
+dfj-chd 44
+ebh-chd 44
+cjc-chd 44
+bfbg-chd 44
+274
+4
+dbj-che 44
+eah-che 44
+dej-che 44
+befj-che 44
+275
+5
+did-chf 44
+ehb-chf 44
+hfb-chf 44
+fch-chf 44
+eca-chf 44
+276
+4
+fc-chg 44
+hja-chg 44
+iab-chg 44
+edh-chg 44
+277
+4
+ca-chh 44
+ddj-chh 44
+cid-chh 44
+cbb-chh 44
+278
+6
+cee-chi 44
+ibj-chi 44
+hga-chi 44
+bbea-chi 44
+bbc-chi 44
+jeh-chi 44
+279
+6
+dia-chj 44
+fg-chj 44
+bgh-chj 44
+jg-chj 44
+fjd-chj 44
+hhi-chj 44
+280
+4
+eie-cia 44
+jej-cia 44
+cce-cia 44
+jj-cia 44
+281
+5
+eha-cib 44
+hh-cib 44
+bdhh-cib 44
+bcce-cib 44
+bdhb-cib 44
+282
+5
+bbi-cic 44
+igc-cic 44
+ifd-cic 44
+jce-cic 44
+dhi-cic 44
+283
+11
+bdh-cid 44
+dfa-cid 44
+ehb-cid 44
+fcf-cid 44
+ebi-cid 44
+fic-cid 44
+dfd-cid 44
+bii-cid 44
+hgg-cid 44
+cjb-cid 44
+cab-cid 44
+284
+3
+bih-cie 44
+jfi-cie 44
+gg-cie 44
+285
+8
+dcb-cif 44
+dgb-cif 44
+dae-cif 44
+gfe-cif 44
+idd-cif 44
+baed-cif 44
+bbai-cif 44
+bcja-cif 44
+286
+6
+eef-cig 44
+dge-cig 44
+hbj-cig 44
+hdd-cig 44
+hai-cig 44
+bbac-cig 44
+287
+2
+cda-cih 44
+icg-cih 44
+288
+6
+cah-cii 44
+dad-cii 44
+gbi-cii 44
+gc-cii 44
+ggd-cii 44
+baha-cii 44
+289
+4
+bgi-cij 44
+cch-cij 44
+dgf-cij 44
+ch-cij 44
+290
+6
+ead-cja 44
+ehg-cja 44
+dge-cja 44
+hcj-cja 44
+ija-cja 44
+bcaa-cja 44
+291
+4
+eei-cjb 44
+jbi-cjb 44
+bagh-cjb 44
+beba-cjb 44
+292
+4
+db-cjc 44
+bada-cjc 44
+bcih-cjc 44
+bfgi-cjc 44
+293
+2
+eje-cjd 44
+bdaa-cjd 44
+294
+3
+bbi-cje 44
+cea-cje 44
+fje-cje 44
+295
+3
+egf-cjf 44
+cgb-cjf 44
+dba-cjf 44
+296
+1
+cgb-cjg 44
+297
+5
+dci-cjh 44
+da-cjh 44
+hhf-cjh 44
+jfd-cjh 44
+he-cjh 44
+298
+6
+bee-cji 44
+id-cji 44
+hbd-cji 44
+dbj-cji 44
+bdce-cji 44
+bdcg-cji 44
+299
+6
+cc-cjj 44
+bgh-cjj 44
+fci-cjj 44
+jah-cjj 44
+bcie-cjj 44
+bfeb-cjj 44
+300
+6
+fh-daa 44
+ih-daa 44
+edd-daa 44
+bbhc-daa 44
+jjb-daa 44
+bfde-daa 44
+301
+6
+ede-dab 44
+hi-dab 44
+icf-dab 44
+cjh-dab 44
+bace-dab 44
+bef-dab 44
+302
+5
+de-dac 44
+bgi-dac 44
+fgc-dac 44
+dce-dac 44
+iid-dac 44
+303
+4
+dab-dad 44
+gfe-dad 44
+gcb-dad 44
+gfd-dad 44
+304
+4
+ebf-dae 44
+baaa-dae 44
+fce-dae 44
+bcib-dae 44
+305
+7
+cha-daf 44
+badi-daf 44
+bdag-daf 44
+bddb-daf 44
+bdcb-daf 44
+fbb-daf 44
+jae-daf 44
+306
+3
+eb-dag 44
+jg-dag 44
+hcd-dag 44
+307
+4
+cgi-dah 44
+ihj-dah 44
+ggg-dah 44
+ehc-dah 44
+308
+6
+dhc-dai 44
+chh-dai 44
+ebd-dai 44
+bafa-dai 44
+ejb-dai 44
+bchi-dai 44
+309
+6
+dce-daj 44
+ebb-daj 44
+fae-daj 44
+fhj-daj 44
+dhe-daj 44
+geh-daj 44
+310
+3
+bff-dba 44
+gdh-dba 44
+hhj-dba 44
+311
+4
+dfc-dbb 44
+eaa-dbb 44
+dgi-dbb 44
+cjb-dbb 44
+312
+2
+dah-dbc 44
+hca-dbc 44
+313
+5
+bfg-dbd 44
+bbg-dbd 44
+ceg-dbd 44
+gcb-dbd 44
+bdjf-dbd 44
+314
+3
+dfh-dbe 44
+dac-dbe 44
+bcaf-dbe 44
+315
+7
+gdc-dbf 44
+gib-dbf 44
+ei-dbf 44
+dac-dbf 44
+eid-dbf 44
+bbcb-dbf 44
+baad-dbf 44
+316
+3
+dab-dbg 44
+iag-dbg 44
+ffg-dbg 44
+317
+5
+cid-dbh 44
+cdb-dbh 44
+caa-dbh 44
+gfj-dbh 44
+fha-dbh 44
+318
+5
+ch-dbi 44
+eia-dbi 44
+fah-dbi 44
+edd-dbi 44
+bcaa-dbi 44
+319
+6
+cgb-dbj 44
+cg-dbj 44
+dad-dbj 44
+gjf-dbj 44
+dhd-dbj 44
+bb-dbj 44
+320
+5
+badg-dca 44
+bdii-dca 44
+jbi-dca 44
+a-dca 44
+bda-dca 44
+321
+6
+efg-dcb 44
+gbj-dcb 44
+eda-dcb 44
+gad-dcb 44
+jia-dcb 44
+fi-dcb 44
+322
+9
+eie-dcc 44
+chf-dcc 44
+cdd-dcc 44
+di-dcc 44
+ddf-dcc 44
+jah-dcc 44
+heg-dcc 44
+fbb-dcc 44
+gdi-dcc 44
+323
+4
+gjc-dcd 44
+cg-dcd 44
+cfg-dcd 44
+gda-dcd 44
+324
+4
+bcg-dce 44
+cce-dce 44
+jef-dce 44
+ebg-dce 44
+325
+5
+bhe-dcf 44
+fce-dcf 44
+fea-dcf 44
+cgb-dcf 44
+bbja-dcf 44
+326
+3
+cd-dcg 44
+dca-dcg 44
+jjj-dcg 44
+327
+5
+cjc-dch 44
+eca-dch 44
+dh-dch 44
+bdgc-dch 44
+jai-dch 44
+328
+5
+ehi-dci 44
+cge-dci 44
+ddg-dci 44
+bcef-dci 44
+dae-dci 44
+329
+5
+bde-dcj 44
+dhd-dcj 44
+dbj-dcj 44
+jcg-dcj 44
+begb-dcj 44
+330
+4
+dai-dda 44
+cea-dda 44
+bjj-dda 44
+fjj-dda 44
+331
+6
+cjb-ddb 44
+ddd-ddb 44
+eig-ddb 44
+bcea-ddb 44
+bdge-ddb 44
+bbdj-ddb 44
+332
+5
+beg-ddc 44
+ia-ddc 44
+bja-ddc 44
+dac-ddc 44
+bfjb-ddc 44
+333
+4
+bci-ddd 44
+gfa-ddd 44
+hed-ddd 44
+beef-ddd 44
+334
+9
+ehd-dde 44
+ejf-dde 44
+gaa-dde 44
+bbj-dde 44
+ghh-dde 44
+dbe-dde 44
+fbe-dde 44
+ifj-dde 44
+d-dde 44
+335
+7
+chf-ddf 44
+jh-ddf 44
+bei-ddf 44
+id-ddf 44
+eij-ddf 44
+eb-ddf 44
+fcf-ddf 44
+336
+3
+cdi-ddg 44
+eid-ddg 44
+cgc-ddg 44
+337
+4
+ech-ddh 44
+ef-ddh 44
+edi-ddh 44
+baa-ddh 44
+338
+6
+cfa-ddi 44
+ehd-ddi 44
+fib-ddi 44
+bjc-ddi 44
+ef-ddi 44
+jja-ddi 44
+339
+6
+ehi-ddj 44
+ecg-ddj 44
+haa-ddj 44
+ccd-ddj 44
+ihj-ddj 44
+dia-ddj 44
+340
+6
+dia-dea 44
+bgi-dea 44
+ejd-dea 44
+edh-dea 44
+ief-dea 44
+ebe-dea 44
+341
+6
+hjc-deb 44
+hha-deb 44
+fei-deb 44
+hgj-deb 44
+hfg-deb 44
+cbi-deb 44
+342
+5
+ba-dec 44
+fdc-dec 44
+bg-dec 44
+bcgh-dec 44
+bfg-dec 44
+343
+5
+ihf-ded 44
+gij-ded 44
+bdbb-ded 44
+ddc-ded 44
+jab-ded 44
+344
+5
+fhb-dee 44
+dhc-dee 44
+dej-dee 44
+fji-dee 44
+cia-dee 44
+345
+3
+ceb-def 44
+jfi-def 44
+bajh-def 44
+346
+6
+cdh-deg 44
+cfb-deg 44
+eec-deg 44
+hia-deg 44
+fhd-deg 44
+bceg-deg 44
+347
+4
+gcf-deh 44
+ifa-deh 44
+iji-deh 44
+dj-deh 44
+348
+2
+gjc-dei 44
+fif-dei 44
+349
+4
+dif-dej 44
+babg-dej 44
+bcah-dej 44
+fda-dej 44
+350
+5
+fie-dfa 44
+hab-dfa 44
+bfb-dfa 44
+eai-dfa 44
+ege-dfa 44
+351
+3
+bde-dfb 44
+ehb-dfb 44
+e-dfb 44
+352
+7
+ddc-dfc 44
+cjc-dfc 44
+eb-dfc 44
+fgg-dfc 44
+ghb-dfc 44
+ca-dfc 44
+fgj-dfc 44
+353
+6
+bga-dfd 44
+da-dfd 44
+gcb-dfd 44
+bbae-dfd 44
+idj-dfd 44
+bfcc-dfd 44
+354
+4
+ii-dfe 44
+badc-dfe 44
+ejd-dfe 44
+baac-dfe 44
+355
+5
+jha-dff 44
+ife-dff 44
+hii-dff 44
+gie-dff 44
+heg-dff 44
+356
+3
+cdj-dfg 44
+dhf-dfg 44
+eib-dfg 44
+357
+5
+hg-dfh 44
+fhb-dfh 44
+fee-dfh 44
+bbcb-dfh 44
+beci-dfh 44
+358
+3
+hgh-dfi 44
+baac-dfi 44
+egd-dfi 44
+359
+3
+eb-dfj 44
+ejd-dfj 44
+bbah-dfj 44
+360
+5
+g-dga 44
+dgi-dga 44
+fff-dga 44
+cb-dga 44
+bcdg-dga 44
+361
+2
+cad-dgb 44
+bcae-dgb 44
+362
+6
+bc-dgc 44
+c-dgc 44
+jic-dgc 44
+fib-dgc 44
+jja-dgc 44
+bdbb-dgc 44
+363
+9
+cbc-dgd 44
+ebc-dgd 44
+bfa-dgd 44
+feh-dgd 44
+ifg-dgd 44
+badi-dgd 44
+bajj-dgd 44
+bbjf-dgd 44
+ifb-dgd 44
+364
+6
+ifc-dge 44
+dc-dge 44
+hcj-dge 44
+bccf-dge 44
+ef-dge 44
+beaa-dge 44
+365
+4
+dhf-dgf 44
+jfj-dgf 44
+bbba-dgf 44
+bffd-dgf 44
+366
+3
+dce-dgg 44
+bg-dgg 44
+bced-dgg 44
+367
+2
+dff-dgh 44
+idi-dgh 44
+368
+5
+cgg-dgi 44
+deb-dgi 44
+bbf-dgi 44
+ibf-dgi 44
+ceb-dgi 44
+369
+4
+gg-dgj 44
+bea-dgj 44
+bcab-dgj 44
+ghb-dgj 44
+370
+4
+dij-dha 44
+ecg-dha 44
+jhi-dha 44
+dji-dha 44
+371
+3
+ebh-dhb 44
+d-dhb 44
+bajb-dhb 44
+372
+7
+dfg-dhc 44
+ccd-dhc 44
+dbg-dhc 44
+bbce-dhc 44
+jii-dhc 44
+bdab-dhc 44
+bbed-dhc 44
+373
+6
+cdi-dhd 44
+fhc-dhd 44
+dgh-dhd 44
+hfh-dhd 44
+ije-dhd 44
+baeg-dhd 44
+374
+6
+dca-dhe 44
+ieg-dhe 44
+bbhi-dhe 44
+ehb-dhe 44
+bbii-dhe 44
+bbhb-dhe 44
+375
+5
+cjd-dhf 44
+bcf-dhf 44
+ebj-dhf 44
+ich-dhf 44
+baga-dhf 44
+376
+4
+bfe-dhg 44
+ida-dhg 44
+beab-dhg 44
+begf-dhg 44
+377
+5
+dgf-dhh 44
+bbb-dhh 44
+bbh-dhh 44
+bdac-dhh 44
+gbg-dhh 44
+378
+6
+ebh-dhi 44
+fhf-dhi 44
+fjf-dhi 44
+bbbb-dhi 44
+bcab-dhi 44
+ihg-dhi 44
+379
+7
+fce-dhj 44
+idc-dhj 44
+ddj-dhj 44
+begh-dhj 44
+idf-dhj 44
+ecj-dhj 44
+icc-dhj 44
+380
+4
+bdc-dia 44
+jcc-dia 44
+hge-dia 44
+ecg-dia 44
+381
+4
+cfd-dib 44
+bgg-dib 44
+dhj-dib 44
+ffd-dib 44
+382
+8
+hc-dic 44
+dih-dic 44
+fh-dic 44
+ebi-dic 44
+hhd-dic 44
+jff-dic 44
+edj-dic 44
+bbgj-dic 44
+383
+6
+bab-did 44
+ccj-did 44
+dhg-did 44
+hid-did 44
+bgj-did 44
+eii-did 44
+384
+6
+dci-die 44
+fig-die 44
+fea-die 44
+jeb-die 44
+fac-die 44
+baag-die 44
+385
+1
+bbdh-dif 44
+386
+3
+edj-dig 44
+fcd-dig 44
+hih-dig 44
+387
+2
+fdg-dih 44
+bbjg-dih 44
+388
+2
+bage-dii 44
+bdeg-dii 44
+389
+5
+cga-dij 44
+eai-dij 44
+bacf-dij 44
+hhe-dij 44
+ici-dij 44
+390
+2
+bhe-dja 44
+bdhi-dja 44
+391
+2
+eee-djb 44
+jjj-djb 44
+392
+3
+dba-djc 44
+ddi-djc 44
+jaj-djc 44
+393
+6
+cie-djd 44
+ceb-djd 44
+jdd-djd 44
+jif-djd 44
+ifd-djd 44
+bejh-djd 44
+394
+7
+he-dje 44
+bbj-dje 44
+dbi-dje 44
+hag-dje 44
+dbh-dje 44
+ddc-dje 44
+beaj-dje 44
+395
+2
+di-djf 44
+eha-djf 44
+396
+7
+baa-djg 44
+cji-djg 44
+bcc-djg 44
+jbc-djg 44
+hca-djg 44
+bceg-djg 44
+efi-djg 44
+397
+9
+bdh-djh 44
+djb-djh 44
+bif-djh 44
+ebi-djh 44
+beca-djh 44
+gai-djh 44
+gdg-djh 44
+cjc-djh 44
+bdef-djh 44
+398
+4
+cha-dji 44
+cic-dji 44
+hhj-dji 44
+bahj-dji 44
+399
+6
+caj-djj 44
+egi-djj 44
+dec-djj 44
+dda-djj 44
+bbc-djj 44
+jib-djj 44
+400
+7
+bif-eaa 44
+ghi-eaa 44
+hbg-eaa 44
+bee-eaa 44
+eji-eaa 44
+jbb-eaa 44
+hjj-eaa 44
+401
+4
+fh-eab 44
+chi-eab 44
+bdha-eab 44
+bbga-eab 44
+402
+5
+bcc-eac 44
+big-eac 44
+bagg-eac 44
+cej-eac 44
+jhi-eac 44
+403
+4
+chj-ead 44
+dce-ead 44
+caf-ead 44
+dj-ead 44
+404
+7
+fhi-eae 44
+gai-eae 44
+fed-eae 44
+edd-eae 44
+gdc-eae 44
+icb-eae 44
+bic-eae 44
+405
+4
+jc-eaf 44
+ghj-eaf 44
+fde-eaf 44
+fgj-eaf 44
+406
+5
+ca-eag 44
+hea-eag 44
+gff-eag 44
+cfa-eag 44
+hgb-eag 44
+407
+5
+cgd-eah 44
+eca-eah 44
+gdj-eah 44
+bbcf-eah 44
+bcaj-eah 44
+408
+4
+efh-eai 44
+ffa-eai 44
+be-eai 44
+bbec-eai 44
+409
+4
+eae-eaj 44
+dfj-eaj 44
+jfa-eaj 44
+beec-eaj 44
+410
+6
+cee-eba 44
+feb-eba 44
+bjj-eba 44
+gih-eba 44
+bif-eba 44
+bebc-eba 44
+411
+7
+ebg-ebb 44
+fac-ebb 44
+fff-ebb 44
+beb-ebb 44
+ggb-ebb 44
+iij-ebb 44
+ffd-ebb 44
+412
+3
+ecb-ebc 44
+baej-ebc 44
+bjg-ebc 44
+413
+8
+cag-ebd 44
+cbb-ebd 44
+ejb-ebd 44
+had-ebd 44
+dgi-ebd 44
+badb-ebd 44
+bcce-ebd 44
+bdae-ebd 44
+414
+6
+dgb-ebe 44
+ceb-ebe 44
+hfg-ebe 44
+df-ebe 44
+ebb-ebe 44
+bfhc-ebe 44
+415
+4
+bfd-ebf 44
+bge-ebf 44
+fhf-ebf 44
+ijf-ebf 44
+416
+3
+dcf-ebg 44
+fga-ebg 44
+ghg-ebg 44
+417
+4
+daf-ebh 44
+hdg-ebh 44
+bahf-ebh 44
+icg-ebh 44
+418
+3
+ebd-ebi 44
+ebc-ebi 44
+hfe-ebi 44
+419
+5
+ghd-ebj 44
+jgc-ebj 44
+ehi-ebj 44
+igf-ebj 44
+djj-ebj 44
+420
+5
+dhi-eca 44
+dbf-eca 44
+jff-eca 44
+eh-eca 44
+jga-eca 44
+421
+2
+daj-ecb 44
+bchc-ecb 44
+422
+10
+cd-ecc 44
+edi-ecc 44
+ejd-ecc 44
+jc-ecc 44
+idf-ecc 44
+gce-ecc 44
+babd-ecc 44
+fbe-ecc 44
+bdie-ecc 44
+bdch-ecc 44
+423
+3
+fba-ecd 44
+dha-ecd 44
+jfj-ecd 44
+424
+4
+ecd-ece 44
+eaa-ece 44
+ici-ece 44
+eeh-ece 44
+425
+6
+dh-ecf 44
+eed-ecf 44
+dgb-ecf 44
+dc-ecf 44
+cib-ecf 44
+beh-ecf 44
+426
+3
+dfa-ecg 44
+bcca-ecg 44
+fbc-ecg 44
+427
+5
+fcf-ech 44
+dbh-ech 44
+bajd-ech 44
+jjc-ech 44
+hcd-ech 44
+428
+4
+dh-eci 44
+cei-eci 44
+hcg-eci 44
+jac-eci 44
+429
+3
+gbj-ecj 44
+fbc-ecj 44
+ihi-ecj 44
+430
+7
+dgb-eda 44
+eai-eda 44
+hbd-eda 44
+igj-eda 44
+dhf-eda 44
+bbdb-eda 44
+bdcg-eda 44
+431
+7
+ff-edb 44
+fb-edb 44
+eci-edb 44
+gec-edb 44
+jj-edb 44
+iia-edb 44
+gdd-edb 44
+432
+5
+bhb-edc 44
+dci-edc 44
+ggi-edc 44
+baa-edc 44
+ihi-edc 44
+433
+6
+bai-edd 44
+dfa-edd 44
+ebd-edd 44
+gag-edd 44
+bdh-edd 44
+cbe-edd 44
+434
+4
+ejb-ede 44
+ffi-ede 44
+jbb-ede 44
+jh-ede 44
+435
+6
+ci-edf 44
+dic-edf 44
+fah-edf 44
+hba-edf 44
+bdfe-edf 44
+bdag-edf 44
+436
+6
+bgd-edg 44
+ddc-edg 44
+ggd-edg 44
+jgh-edg 44
+cde-edg 44
+ie-edg 44
+437
+5
+dah-edh 44
+cfj-edh 44
+bbgb-edh 44
+hcd-edh 44
+beb-edh 44
+438
+9
+ccg-edi 44
+cfj-edi 44
+eja-edi 44
+gah-edi 44
+gie-edi 44
+egf-edi 44
+bjd-edi 44
+bda-edi 44
+baib-edi 44
+439
+3
+cfb-edj 44
+egj-edj 44
+egf-edj 44
+440
+4
+djh-eea 44
+gcc-eea 44
+igj-eea 44
+bgj-eea 44
+441
+4
+dec-eeb 44
+hgh-eeb 44
+bab-eeb 44
+hei-eeb 44
+442
+4
+cbe-eec 44
+bha-eec 44
+hci-eec 44
+dge-eec 44
+443
+4
+gcd-eed 44
+fcg-eed 44
+iaa-eed 44
+jhc-eed 44
+444
+3
+fgi-eee 44
+idg-eee 44
+chb-eee 44
+445
+5
+dej-eef 44
+bdg-eef 44
+jad-eef 44
+bie-eef 44
+bdcd-eef 44
+446
+6
+dji-eeg 44
+chg-eeg 44
+cfe-eeg 44
+dcc-eeg 44
+bfc-eeg 44
+badg-eeg 44
+447
+3
+bcc-eeh 44
+fbd-eeh 44
+gbb-eeh 44
+448
+5
+ejc-eei 44
+fii-eei 44
+bih-eei 44
+haj-eei 44
+beed-eei 44
+449
+4
+chc-eej 44
+bbif-eej 44
+bcag-eej 44
+bcih-eej 44
+450
+7
+ii-efa 44
+dhd-efa 44
+egc-efa 44
+cbb-efa 44
+jia-efa 44
+bccg-efa 44
+hch-efa 44
+451
+3
+eib-efb 44
+ehc-efb 44
+bbgj-efb 44
+452
+4
+bhh-efc 44
+fdg-efc 44
+ehd-efc 44
+hd-efc 44
+453
+4
+bbc-efd 44
+igj-efd 44
+iac-efd 44
+fei-efd 44
+454
+2
+ija-efe 44
+bcdb-efe 44
+455
+5
+fff-eff 44
+hgf-eff 44
+jge-eff 44
+bbed-eff 44
+bjf-eff 44
+456
+5
+daf-efg 44
+fii-efg 44
+bcad-efg 44
+bbj-efg 44
+iib-efg 44
+457
+7
+dci-efh 44
+fde-efh 44
+ibb-efh 44
+bbeg-efh 44
+ded-efh 44
+iic-efh 44
+igc-efh 44
+458
+3
+eed-efi 44
+icc-efi 44
+eec-efi 44
+459
+6
+efe-efj 44
+gde-efj 44
+fhc-efj 44
+fje-efj 44
+bbfa-efj 44
+bbca-efj 44
+460
+8
+cgd-ega 44
+icf-ega 44
+bja-ega 44
+bbac-ega 44
+cbg-ega 44
+feh-ega 44
+bac-ega 44
+jca-ega 44
+461
+6
+efi-egb 44
+fdb-egb 44
+cdg-egb 44
+hic-egb 44
+jg-egb 44
+bcdf-egb 44
+462
+2
+ddc-egc 44
+ccj-egc 44
+463
+4
+bbf-egd 44
+ebd-egd 44
+bdhg-egd 44
+cfa-egd 44
+464
+6
+ecb-ege 44
+fdb-ege 44
+bg-ege 44
+dbb-ege 44
+ifi-ege 44
+dib-ege 44
+465
+4
+cha-egf 44
+fge-egf 44
+eae-egf 44
+ifd-egf 44
+466
+5
+die-egg 44
+eaj-egg 44
+ed-egg 44
+jia-egg 44
+idd-egg 44
+467
+3
+gah-egh 44
+cii-egh 44
+iid-egh 44
+468
+4
+cdi-egi 44
+hef-egi 44
+efa-egi 44
+ghc-egi 44
+469
+6
+ij-egj 44
+dbi-egj 44
+ibi-egj 44
+jj-egj 44
+baih-egj 44
+jdg-egj 44
+470
+6
+bjj-eha 44
+eid-eha 44
+bbi-eha 44
+bcbi-eha 44
+cgh-eha 44
+fgd-eha 44
+471
+4
+bfc-ehb 44
+bj-ehb 44
+fei-ehb 44
+hib-ehb 44
+472
+2
+cdh-ehc 44
+iad-ehc 44
+473
+4
+dfd-ehd 44
+hcb-ehd 44
+hjj-ehd 44
+bffb-ehd 44
+474
+4
+di-ehe 44
+hje-ehe 44
+ibh-ehe 44
+bebj-ehe 44
+475
+5
+caa-ehf 44
+fag-ehf 44
+hgh-ehf 44
+cac-ehf 44
+jgj-ehf 44
+476
+5
+ddb-ehg 44
+cgg-ehg 44
+hda-ehg 44
+edf-ehg 44
+bdgh-ehg 44
+477
+5
+dad-ehh 44
+dcc-ehh 44
+gcc-ehh 44
+had-ehh 44
+ecf-ehh 44
+478
+3
+fef-ehi 44
+bbeg-ehi 44
+jfd-ehi 44
+479
+4
+hbj-ehj 44
+baeh-ehj 44
+bcgj-ehj 44
+eci-ehj 44
+480
+5
+ddb-eia 44
+efb-eia 44
+bfa-eia 44
+efc-eia 44
+cjj-eia 44
+481
+4
+dg-eib 44
+bbbe-eib 44
+iih-eib 44
+bcji-eib 44
+482
+5
+ebb-eic 44
+fhi-eic 44
+bdfb-eic 44
+befh-eic 44
+bfef-eic 44
+483
+6
+hc-eid 44
+bdg-eid 44
+fbg-eid 44
+ejg-eid 44
+bddi-eid 44
+bfhj-eid 44
+484
+5
+gbb-eie 44
+baf-eie 44
+gcf-eie 44
+bbaf-eie 44
+ffj-eie 44
+485
+4
+djj-eif 44
+daa-eif 44
+fdf-eif 44
+hac-eif 44
+486
+4
+ede-eig 44
+edi-eig 44
+fdf-eig 44
+bfeh-eig 44
+487
+5
+efh-eih 44
+cag-eih 44
+jc-eih 44
+ifi-eih 44
+daa-eih 44
+488
+4
+bgb-eii 44
+cfd-eii 44
+fij-eii 44
+bfdi-eii 44
+489
+5
+bje-eij 44
+dfg-eij 44
+ief-eij 44
+dcc-eij 44
+jae-eij 44
+490
+3
+iaj-eja 44
+hej-eja 44
+babi-eja 44
+491
+3
+cdi-ejb 44
+ibd-ejb 44
+bhc-ejb 44
+492
+6
+eia-ejc 44
+daj-ejc 44
+hgb-ejc 44
+bcbe-ejc 44
+gji-ejc 44
+ggd-ejc 44
+493
+2
+iic-ejd 44
+ige-ejd 44
+494
+6
+bfj-eje 44
+gic-eje 44
+ebj-eje 44
+cif-eje 44
+ege-eje 44
+iei-eje 44
+495
+3
+bgb-ejf 44
+ecf-ejf 44
+bfja-ejf 44
+496
+4
+eb-ejg 44
+ghb-ejg 44
+chd-ejg 44
+feg-ejg 44
+497
+4
+bbi-ejh 44
+egb-ejh 44
+iaa-ejh 44
+idi-ejh 44
+498
+5
+cgh-eji 44
+cdd-eji 44
+dih-eji 44
+hfb-eji 44
+d-eji 44
+499
+2
+chf-ejj 44
+hif-ejj 44
+500
+5
+dfb-faa 44
+deg-faa 44
+dhg-faa 44
+ice-faa 44
+bbba-faa 44
+501
+2
+dbf-fab 44
+dda-fab 44
+502
+5
+cbh-fac 44
+cbi-fac 44
+hdh-fac 44
+bbii-fac 44
+hbc-fac 44
+503
+6
+dih-fad 44
+cfh-fad 44
+iej-fad 44
+baei-fad 44
+bdjg-fad 44
+fgd-fad 44
+504
+4
+fej-fae 44
+fje-fae 44
+baba-fae 44
+bdia-fae 44
+505
+3
+ice-faf 44
+bcja-faf 44
+hid-faf 44
+506
+5
+hcd-fag 44
+jif-fag 44
+ggd-fag 44
+bahb-fag 44
+dbf-fag 44
+507
+2
+bjf-fah 44
+jbj-fah 44
+508
+5
+bcj-fai 44
+eff-fai 44
+gdj-fai 44
+fdh-fai 44
+badj-fai 44
+509
+6
+fgi-faj 44
+ghi-faj 44
+iii-faj 44
+bhe-faj 44
+ggb-faj 44
+ga-faj 44
+510
+4
+cdi-fba 44
+bge-fba 44
+dii-fba 44
+bbdb-fba 44
+511
+5
+fic-fbb 44
+fid-fbb 44
+geh-fbb 44
+jih-fbb 44
+jgi-fbb 44
+512
+4
+eeg-fbc 44
+fej-fbc 44
+ejh-fbc 44
+baag-fbc 44
+513
+5
+bih-fbd 44
+eai-fbd 44
+hej-fbd 44
+ejj-fbd 44
+jhc-fbd 44
+514
+3
+fgi-fbe 44
+bajc-fbe 44
+bceh-fbe 44
+515
+1
+jbh-fbf 44
+516
+2
+edb-fbg 44
+dff-fbg 44
+517
+6
+fdh-fbh 44
+fgb-fbh 44
+hca-fbh 44
+ib-fbh 44
+bc-fbh 44
+bcjg-fbh 44
+518
+5
+cfg-fbi 44
+eah-fbi 44
+ebf-fbi 44
+dcc-fbi 44
+bjb-fbi 44
+519
+6
+hb-fbj 44
+fdc-fbj 44
+fch-fbj 44
+ieg-fbj 44
+beig-fbj 44
+hdc-fbj 44
+520
+5
+dce-fca 44
+gaj-fca 44
+bcie-fca 44
+bccg-fca 44
+jib-fca 44
+521
+5
+bhb-fcb 44
+fij-fcb 44
+h-fcb 44
+bcdf-fcb 44
+hbb-fcb 44
+522
+4
+gbd-fcc 44
+gic-fcc 44
+fjh-fcc 44
+bfca-fcc 44
+523
+4
+cae-fcd 44
+ghf-fcd 44
+hib-fcd 44
+cba-fcd 44
+524
+3
+gjh-fce 44
+gia-fce 44
+baec-fce 44
+525
+7
+ejd-fcf 44
+ehe-fcf 44
+ebi-fcf 44
+bff-fcf 44
+cgf-fcf 44
+baib-fcf 44
+cce-fcf 44
+526
+4
+bcah-fcg 44
+gcc-fcg 44
+bbe-fcg 44
+eig-fcg 44
+527
+8
+ecb-fch 44
+fcf-fch 44
+hfc-fch 44
+eae-fch 44
+cjb-fch 44
+bcee-fch 44
+beaj-fch 44
+bfgh-fch 44
+528
+8
+fhg-fci 44
+bjf-fci 44
+iba-fci 44
+dfd-fci 44
+dei-fci 44
+iei-fci 44
+dfh-fci 44
+bbea-fci 44
+529
+6
+egd-fcj 44
+ffb-fcj 44
+ghc-fcj 44
+fcg-fcj 44
+hge-fcj 44
+heb-fcj 44
+530
+6
+bhj-fda 44
+edf-fda 44
+gca-fda 44
+bhi-fda 44
+cfd-fda 44
+bbbd-fda 44
+531
+5
+ccf-fdb 44
+ffg-fdb 44
+eha-fdb 44
+bcga-fdb 44
+def-fdb 44
+532
+6
+dad-fdc 44
+cif-fdc 44
+eg-fdc 44
+bbjb-fdc 44
+dhh-fdc 44
+bahi-fdc 44
+533
+9
+bei-fdd 44
+baei-fdd 44
+baif-fdd 44
+edd-fdd 44
+dfb-fdd 44
+hid-fdd 44
+eaf-fdd 44
+bfha-fdd 44
+bfie-fdd 44
+534
+3
+egb-fde 44
+fih-fde 44
+jj-fde 44
+535
+6
+fbj-fdf 44
+cgg-fdf 44
+gdc-fdf 44
+bade-fdf 44
+fdg-fdf 44
+ibe-fdf 44
+536
+5
+bhi-fdg 44
+gje-fdg 44
+gbh-fdg 44
+bach-fdg 44
+bdhg-fdg 44
+537
+7
+cjd-fdh 44
+ffa-fdh 44
+hjd-fdh 44
+deb-fdh 44
+cdc-fdh 44
+bcjh-fdh 44
+gf-fdh 44
+538
+2
+bh-fdi 44
+jii-fdi 44
+539
+2
+hbh-fdj 44
+bdfh-fdj 44
+540
+5
+caf-fea 44
+bbia-fea 44
+bceb-fea 44
+bdcd-fea 44
+ee-fea 44
+541
+6
+ieb-feb 44
+hgh-feb 44
+ibd-feb 44
+ih-feb 44
+dfh-feb 44
+cid-feb 44
+542
+3
+ffe-fec 44
+bfcg-fec 44
+bfij-fec 44
+543
+5
+eac-fed 44
+fdh-fed 44
+bbhb-fed 44
+fjd-fed 44
+hdi-fed 44
+544
+5
+fff-fee 44
+be-fee 44
+ihf-fee 44
+bbaa-fee 44
+ecb-fee 44
+545
+5
+dfe-fef 44
+bbfh-fef 44
+bdad-fef 44
+je-fef 44
+bfdg-fef 44
+546
+6
+bd-feg 44
+ihh-feg 44
+bi-feg 44
+ijc-feg 44
+hgh-feg 44
+bcgj-feg 44
+547
+5
+bch-feh 44
+bbdc-feh 44
+hei-feh 44
+chc-feh 44
+djg-feh 44
+548
+6
+fbi-fei 44
+dbc-fei 44
+ffc-fei 44
+eeg-fei 44
+bcgi-fei 44
+begd-fei 44
+549
+4
+eji-fej 44
+gcg-fej 44
+hhe-fej 44
+dfe-fej 44
+550
+5
+df-ffa 44
+dce-ffa 44
+gch-ffa 44
+idb-ffa 44
+bfef-ffa 44
+551
+7
+dab-ffb 44
+cbd-ffb 44
+gda-ffb 44
+ica-ffb 44
+i-ffb 44
+jfe-ffb 44
+cfd-ffb 44
+552
+4
+bdj-ffc 44
+ejg-ffc 44
+bgc-ffc 44
+hbb-ffc 44
+553
+3
+jaf-ffd 44
+dij-ffd 44
+eia-ffd 44
+554
+2
+baba-ffe 44
+hdc-ffe 44
+555
+7
+edi-fff 44
+chc-fff 44
+fgj-fff 44
+jbf-fff 44
+baae-fff 44
+baj-fff 44
+hfd-fff 44
+556
+1
+ffi-ffg 44
+557
+2
+fja-ffh 44
+e-ffh 44
+558
+5
+fed-ffi 44
+gaj-ffi 44
+bcdd-ffi 44
+cif-ffi 44
+cdj-ffi 44
+559
+4
+dfd-ffj 44
+gih-ffj 44
+gfi-ffj 44
+baid-ffj 44
+560
+8
+cie-fga 44
+gei-fga 44
+eae-fga 44
+igi-fga 44
+bdib-fga 44
+ceb-fga 44
+bbhg-fga 44
+bhe-fga 44
+561
+3
+eei-fgb 44
+gff-fgb 44
+dba-fgb 44
+562
+5
+dbd-fgc 44
+cjb-fgc 44
+jad-fgc 44
+dgd-fgc 44
+bagf-fgc 44
+563
+6
+dij-fgd 44
+bie-fgd 44
+ffa-fgd 44
+fb-fgd 44
+bfff-fgd 44
+bfic-fgd 44
+564
+2
+gjf-fge 44
+ibf-fge 44
+565
+2
+def-fgf 44
+ha-fgf 44
+566
+2
+bih-fgg 44
+ice-fgg 44
+567
+3
+dbh-fgh 44
+jcf-fgh 44
+jjf-fgh 44
+568
+4
+eeh-fgi 44
+bcbi-fgi 44
+hjf-fgi 44
+dfg-fgi 44
+569
+4
+egh-fgj 44
+bdc-fgj 44
+gbh-fgj 44
+ghj-fgj 44
+570
+3
+bfi-fha 44
+fhc-fha 44
+bfig-fha 44
+571
+6
+feb-fhb 44
+hfe-fhb 44
+bajf-fhb 44
+beaa-fhb 44
+bfcb-fhb 44
+beeb-fhb 44
+572
+6
+cba-fhc 44
+bbi-fhc 44
+hch-fhc 44
+bfed-fhc 44
+ijj-fhc 44
+bgea-fhc 44
+573
+4
+dgi-fhd 44
+dea-fhd 44
+cih-fhd 44
+hic-fhd 44
+574
+5
+dic-fhe 44
+ebh-fhe 44
+gge-fhe 44
+hci-fhe 44
+jbe-fhe 44
+575
+2
+gad-fhf 44
+ffb-fhf 44
+576
+4
+da-fhg 44
+fjc-fhg 44
+jbb-fhg 44
+bbfh-fhg 44
+577
+1
+cba-fhh 44
+578
+4
+bja-fhi 44
+idd-fhi 44
+jcb-fhi 44
+bcgj-fhi 44
+579
+5
+ii-fhj 44
+fgf-fhj 44
+gaj-fhj 44
+fag-fhj 44
+bgde-fhj 44
+580
+4
+cdd-fia 44
+bb-fia 44
+gcc-fia 44
+hga-fia 44
+581
+3
+fgb-fib 44
+gjb-fib 44
+bag-fib 44
+582
+6
+cif-fic 44
+ifh-fic 44
+ijd-fic 44
+cea-fic 44
+hgg-fic 44
+bgaj-fic 44
+583
+6
+fh-fid 44
+cdd-fid 44
+hh-fid 44
+bbaa-fid 44
+cih-fid 44
+gif-fid 44
+584
+3
+efe-fie 44
+ffb-fie 44
+bccf-fie 44
+585
+4
+bbc-fif 44
+ibj-fif 44
+bfcg-fif 44
+gge-fif 44
+586
+6
+bjc-fig 44
+gfa-fig 44
+eib-fig 44
+dec-fig 44
+ejg-fig 44
+bfj-fig 44
+587
+3
+ed-fih 44
+id-fih 44
+bcc-fih 44
+588
+4
+haf-fii 44
+bagb-fii 44
+gde-fii 44
+bcfh-fii 44
+589
+3
+fdf-fij 44
+ebj-fij 44
+bdfi-fij 44
+590
+3
+cih-fja 44
+bhf-fja 44
+edj-fja 44
+591
+9
+egg-fjb 44
+gcg-fjb 44
+cij-fjb 44
+hc-fjb 44
+caa-fjb 44
+hae-fjb 44
+cja-fjb 44
+gef-fjb 44
+bggb-fjb 44
+592
+5
+dbg-fjc 44
+baee-fjc 44
+bcff-fjc 44
+cie-fjc 44
+hdf-fjc 44
+593
+2
+ecc-fjd 44
+cif-fjd 44
+594
+4
+fba-fje 44
+hdj-fje 44
+hci-fje 44
+bbac-fje 44
+595
+3
+fhc-fjf 44
+jhf-fjf 44
+bahg-fjf 44
+596
+2
+bhg-fjg 44
+bcfe-fjg 44
+597
+6
+fdf-fjh 44
+ei-fjh 44
+babb-fjh 44
+ddd-fjh 44
+baij-fjh 44
+g-fjh 44
+598
+9
+ejc-fji 44
+ehf-fji 44
+hh-fji 44
+bgb-fji 44
+iga-fji 44
+cdf-fji 44
+jbi-fji 44
+bddi-fji 44
+fij-fji 44
+599
+3
+ddi-fjj 44
+bbg-fjj 44
+gj-fjj 44
+600
+4
+gie-gaa 44
+gjf-gaa 44
+gbb-gaa 44
+bacj-gaa 44
+601
+3
+ca-gab 44
+ejg-gab 44
+gdh-gab 44
+602
+1
+cca-gac 44
+603
+6
+bf-gad 44
+cdf-gad 44
+bjc-gad 44
+hij-gad 44
+jjh-gad 44
+bdfe-gad 44
+604
+7
+ceb-gae 44
+bd-gae 44
+jci-gae 44
+hca-gae 44
+bfi-gae 44
+eig-gae 44
+ghc-gae 44
+605
+1
+bjh-gaf 44
+606
+5
+dgc-gag 44
+dff-gag 44
+jij-gag 44
+bahg-gag 44
+bcba-gag 44
+607
+5
+cjc-gah 44
+fac-gah 44
+cdd-gah 44
+iaf-gah 44
+ici-gah 44
+608
+2
+daa-gai 44
+gff-gai 44
+609
+4
+ccf-gaj 44
+di-gaj 44
+iae-gaj 44
+bcde-gaj 44
+610
+5
+gcb-gba 44
+hgc-gba 44
+bbge-gba 44
+fdi-gba 44
+bbib-gba 44
+611
+6
+eja-gbb 44
+efh-gbb 44
+cgb-gbb 44
+dhf-gbb 44
+becb-gbb 44
+bfjj-gbb 44
+612
+6
+bbh-gbc 44
+ga-gbc 44
+baab-gbc 44
+bej-gbc 44
+bbhc-gbc 44
+hb-gbc 44
+613
+4
+gca-gbd 44
+fcb-gbd 44
+cg-gbd 44
+bbcd-gbd 44
+614
+1
+bgfd-gbe 44
+615
+4
+fgd-gbf 44
+bbeh-gbf 44
+ccj-gbf 44
+bdcf-gbf 44
+616
+4
+dga-gbg 44
+hhb-gbg 44
+bbcb-gbg 44
+dhh-gbg 44
+617
+3
+dje-gbh 44
+ejj-gbh 44
+ff-gbh 44
+618
+7
+ej-gbi 44
+dbi-gbi 44
+ifc-gbi 44
+bacg-gbi 44
+cfd-gbi 44
+dib-gbi 44
+bbeh-gbi 44
+619
+4
+gch-gbj 44
+eaa-gbj 44
+jej-gbj 44
+bbfi-gbj 44
+620
+7
+ddd-gca 44
+gfd-gca 44
+hbg-gca 44
+iid-gca 44
+haj-gca 44
+jig-gca 44
+bbfc-gca 44
+621
+6
+cab-gcb 44
+bch-gcb 44
+bafh-gcb 44
+jca-gcb 44
+bbbb-gcb 44
+bfbd-gcb 44
+622
+8
+iie-gcc 44
+baad-gcc 44
+gaj-gcc 44
+baee-gcc 44
+bbii-gcc 44
+ejb-gcc 44
+bafc-gcc 44
+cdh-gcc 44
+623
+4
+ja-gcd 44
+egf-gcd 44
+bbjd-gcd 44
+bgbi-gcd 44
+624
+3
+fai-gce 44
+dhb-gce 44
+bdfi-gce 44
+625
+3
+daf-gcf 44
+cgj-gcf 44
+baii-gcf 44
+626
+4
+chg-gcg 44
+hgd-gcg 44
+cce-gcg 44
+ijg-gcg 44
+627
+5
+eja-gch 44
+cih-gch 44
+ffb-gch 44
+fjh-gch 44
+bdc-gch 44
+628
+6
+fdc-gci 44
+gid-gci 44
+bga-gci 44
+ghh-gci 44
+cea-gci 44
+igb-gci 44
+629
+2
+ebb-gcj 44
+ged-gcj 44
+630
+2
+bdcf-gda 44
+ihh-gda 44
+631
+4
+bdci-gdb 44
+cb-gdb 44
+bbg-gdb 44
+eah-gdb 44
+632
+5
+gbe-gdc 44
+ifc-gdc 44
+igj-gdc 44
+babf-gdc 44
+cah-gdc 44
+633
+4
+dgb-gdd 44
+hfi-gdd 44
+efh-gdd 44
+bcag-gdd 44
+634
+5
+gah-gde 44
+hed-gde 44
+gba-gde 44
+baeb-gde 44
+cdd-gde 44
+635
+4
+bhc-gdf 44
+gfe-gdf 44
+hjh-gdf 44
+bchf-gdf 44
+636
+5
+db-gdg 44
+gfd-gdg 44
+hag-gdg 44
+bddj-gdg 44
+bajh-gdg 44
+637
+4
+if-gdh 44
+iih-gdh 44
+bdfd-gdh 44
+jci-gdh 44
+638
+1
+jcc-gdi 44
+639
+3
+gjg-gdj 44
+cei-gdj 44
+dib-gdj 44
+640
+5
+eaa-gea 44
+jh-gea 44
+edi-gea 44
+cda-gea 44
+dea-gea 44
+641
+5
+eff-geb 44
+fcb-geb 44
+hfa-geb 44
+hhd-geb 44
+begg-geb 44
+642
+2
+ffc-gec 44
+ihd-gec 44
+643
+1
+bdbj-ged 44
+644
+1
+dda-gee 44
+645
+4
+gij-gef 44
+gfh-gef 44
+dfi-gef 44
+bdgj-gef 44
+646
+4
+baaa-geg 44
+cie-geg 44
+bfcj-geg 44
+gaj-geg 44
+647
+4
+gah-geh 44
+iai-geh 44
+bjh-geh 44
+jg-geh 44
+648
+4
+iba-gei 44
+daf-gei 44
+eeb-gei 44
+ffa-gei 44
+649
+5
+bge-gej 44
+gda-gej 44
+hgi-gej 44
+fec-gej 44
+cab-gej 44
+650
+2
+hbc-gfa 44
+bgeg-gfa 44
+651
+4
+g-gfb 44
+jhj-gfb 44
+gfj-gfb 44
+bcbi-gfb 44
+652
+4
+bcb-gfc 44
+ccf-gfc 44
+baha-gfc 44
+bche-gfc 44
+653
+3
+gch-gfd 44
+hjb-gfd 44
+bdbg-gfd 44
+654
+3
+bif-gfe 44
+hfa-gfe 44
+baci-gfe 44
+655
+7
+ehe-gff 44
+bga-gff 44
+egf-gff 44
+jbi-gff 44
+eci-gff 44
+idi-gff 44
+hh-gff 44
+656
+4
+cef-gfg 44
+chc-gfg 44
+jaj-gfg 44
+bahh-gfg 44
+657
+4
+bi-gfh 44
+ffb-gfh 44
+iga-gfh 44
+jaj-gfh 44
+658
+5
+ech-gfi 44
+ghc-gfi 44
+jeh-gfi 44
+becd-gfi 44
+dbd-gfi 44
+659
+1
+bdba-gfj 44
+660
+3
+bhe-gga 44
+hhe-gga 44
+gbc-gga 44
+661
+4
+bee-ggb 44
+eae-ggb 44
+igf-ggb 44
+bej-ggb 44
+662
+2
+id-ggc 44
+bgae-ggc 44
+663
+4
+djj-ggd 44
+igd-ggd 44
+cjh-ggd 44
+jhh-ggd 44
+664
+9
+eeb-gge 44
+ehc-gge 44
+gaj-gge 44
+bdc-gge 44
+beg-gge 44
+beai-gge 44
+ifg-gge 44
+efd-gge 44
+bfid-gge 44
+665
+5
+feh-ggf 44
+ibj-ggf 44
+jfj-ggf 44
+bcdj-ggf 44
+hab-ggf 44
+666
+4
+caf-ggg 44
+bih-ggg 44
+die-ggg 44
+dij-ggg 44
+667
+1
+cab-ggh 44
+668
+3
+cbc-ggi 44
+cgh-ggi 44
+bfc-ggi 44
+669
+1
+cfa-ggj 1670
+4
+gdh-gha 44
+ifc-gha 44
+gii-gha 44
+bfgj-gha 44
+671
+6
+ccg-ghb 44
+bbff-ghb 44
+bbfg-ghb 44
+idb-ghb 44
+bgef-ghb 44
+bgae-ghb 44
+672
+8
+efi-ghc 44
+fhi-ghc 44
+fea-ghc 44
+cib-ghc 44
+jjf-ghc 44
+begg-ghc 44
+beid-ghc 44
+bch-ghc 44
+673
+3
+did-ghd 44
+egj-ghd 44
+bae-ghd 44
+674
+3
+cji-ghe 44
+ccb-ghe 44
+ggg-ghe 44
+675
+1
+ggb-ghf 44
+676
+4
+fhb-ghg 44
+dhh-ghg 44
+cej-ghg 44
+fdj-ghg 44
+677
+3
+bacj-ghh 44
+fdi-ghh 44
+cbc-ghh 44
+678
+4
+bge-ghi 44
+cic-ghi 44
+daf-ghi 44
+hai-ghi 44
+679
+5
+eig-ghj 44
+fcd-ghj 44
+fdb-ghj 44
+hec-ghj 44
+bcbc-ghj 44
+680
+4
+ccg-gia 44
+ied-gia 44
+hbf-gia 44
+egg-gia 44
+681
+3
+ehj-gib 44
+cic-gib 44
+bbhf-gib 44
+682
+5
+fed-gic 44
+gge-gic 44
+bjc-gic 44
+bbga-gic 44
+dhi-gic 44
+683
+2
+ddg-gid 44
+cjj-gid 44
+684
+3
+iih-gie 44
+ihe-gie 44
+ici-gie 44
+685
+5
+gdf-gif 44
+jea-gif 44
+bcdi-gif 44
+bcig-gif 44
+hge-gif 44
+686
+4
+cec-gig 44
+bbe-gig 44
+gj-gig 44
+ijf-gig 44
+687
+5
+fic-gih 44
+baai-gih 44
+die-gih 44
+bbfb-gih 44
+badc-gih 44
+688
+3
+cgf-gii 44
+ib-gii 44
+baab-gii 44
+689
+5
+bei-gij 44
+fgh-gij 44
+ibd-gij 44
+ehf-gij 44
+ehh-gij 44
+690
+2
+ecd-gja 44
+bajc-gja 44
+691
+1
+ebc-gjb 44
+692
+5
+hg-gjc 44
+ca-gjc 44
+hji-gjc 44
+gbe-gjc 44
+behb-gjc 44
+693
+1
+gad-gjd 44
+694
+4
+b-gje 44
+eca-gje 44
+bhc-gje 44
+bbdf-gje 44
+695
+3
+dig-gjf 44
+hdh-gjf 44
+ieg-gjf 44
+696
+6
+dci-gjg 44
+bbic-gjg 44
+egg-gjg 44
+bdda-gjg 44
+behg-gjg 44
+bfb-gjg 44
+697
+3
+cje-gjh 44
+dfd-gjh 44
+cbg-gjh 44
+698
+2
+ghe-gji 44
+bbgf-gji 44
+699
+4
+cg-gjj 44
+fbi-gjj 44
+hhe-gjj 44
+iii-gjj 44
+700
+4
+bjj-haa 44
+dg-haa 44
+dbe-haa 44
+bcea-haa 44
+701
+3
+gc-hab 44
+fij-hab 44
+bcfg-hab 44
+702
+4
+gid-hac 44
+gdb-hac 44
+eif-hac 44
+bcbg-hac 44
+703
+1
+iec-had 44
+704
+6
+fac-hae 44
+ije-hae 44
+idb-hae 44
+chi-hae 44
+bbic-hae 44
+hea-hae 44
+705
+5
+gic-haf 44
+bbcd-haf 44
+jji-haf 44
+jda-haf 44
+cdd-haf 44
+706
+6
+dfg-hag 44
+dic-hag 44
+hje-hag 44
+bcgb-hag 44
+beje-hag 44
+ecj-hag 44
+707
+4
+dcd-hah 44
+ghg-hah 44
+efj-hah 44
+fda-hah 44
+708
+3
+bfh-hai 44
+hfh-hai 44
+bce-hai 44
+709
+1
+bdjj-haj 44
+710
+3
+gee-hba 44
+bega-hba 44
+bdbi-hba 44
+711
+4
+eee-hbb 44
+cfb-hbb 44
+cgj-hbb 44
+fac-hbb 44
+712
+3
+ffc-hbc 44
+jdg-hbc 44
+bdif-hbc 44
+713
+6
+eij-hbd 44
+iah-hbd 44
+jjf-hbd 44
+bei-hbd 44
+bcbd-hbd 44
+bdff-hbd 44
+714
+3
+fji-hbe 44
+edh-hbe 44
+fc-hbe 44
+715
+3
+fcf-hbf 44
+dga-hbf 44
+jf-hbf 44
+716
+5
+gde-hbg 44
+ife-hbg 44
+egh-hbg 44
+jh-hbg 44
+bdjf-hbg 44
+717
+4
+dbj-hbh 44
+ifg-hbh 44
+babe-hbh 44
+ci-hbh 44
+718
+2
+egd-hbi 44
+jfh-hbi 44
+719
+2
+jge-hbj 44
+bedf-hbj 44
+720
+7
+g-hca 44
+hcf-hca 44
+ejj-hca 44
+cib-hca 44
+jid-hca 44
+ead-hca 44
+ibe-hca 44
+721
+5
+cha-hcb 44
+jba-hcb 44
+bahd-hcb 44
+bdfa-hcb 44
+ffe-hcb 44
+722
+2
+cie-hcc 44
+iee-hcc 44
+723
+5
+hhf-hcd 44
+bgi-hcd 44
+jee-hcd 44
+ghf-hcd 44
+bdhb-hcd 44
+724
+7
+gfj-hce 44
+eab-hce 44
+bde-hce 44
+dha-hce 44
+beaf-hce 44
+ejf-hce 44
+bchf-hce 44
+725
+5
+cih-hcf 44
+b-hcf 44
+hhc-hcf 44
+gad-hcf 44
+bbae-hcf 44
+726
+4
+ja-hcg 44
+jjg-hcg 44
+ibf-hcg 44
+baed-hcg 44
+727
+4
+fci-hch 44
+jcb-hch 44
+gdg-hch 44
+ghe-hch 44
+728
+5
+geh-hci 44
+baef-hci 44
+bdff-hci 44
+fbf-hci 44
+ggi-hci 44
+729
+6
+eec-hcj 44
+hdb-hcj 44
+ejb-hcj 44
+bbbg-hcj 44
+jd-hcj 44
+bbgd-hcj 44
+730
+5
+eda-hda 44
+ffb-hda 44
+ea-hda 44
+dec-hda 44
+idc-hda 44
+731
+4
+fei-hdb 44
+jh-hdb 44
+bejg-hdb 44
+bfhg-hdb 44
+732
+6
+cbi-hdc 44
+jbf-hdc 44
+cej-hdc 44
+bdac-hdc 44
+gig-hdc 44
+befb-hdc 44
+733
+4
+ejb-hdd 44
+bdg-hdd 44
+cih-hdd 44
+bcf-hdd 44
+734
+3
+gdj-hde 44
+bbjf-hde 44
+jfh-hde 44
+735
+5
+fad-hdf 44
+gbh-hdf 44
+bbha-hdf 44
+dci-hdf 44
+bcfg-hdf 44
+736
+3
+eba-hdg 44
+fjc-hdg 44
+dac-hdg 44
+737
+3
+fec-hdh 44
+ihb-hdh 44
+baga-hdh 44
+738
+3
+bic-hdi 44
+iae-hdi 44
+beah-hdi 44
+739
+4
+bci-hdj 44
+eci-hdj 44
+haa-hdj 44
+jbj-hdj 44
+740
+8
+fdf-hea 44
+jjg-hea 44
+jb-hea 44
+djb-hea 44
+bdfd-hea 44
+cb-hea 44
+befg-hea 44
+bcji-hea 44
+741
+2
+fab-heb 44
+icg-heb 44
+742
+4
+fai-hec 44
+bdhc-hec 44
+bdda-hec 44
+bfjg-hec 44
+743
+3
+ffe-hed 44
+bcbg-hed 44
+bfei-hed 44
+744
+3
+gbf-hee 44
+ijb-hee 44
+bfhd-hee 44
+745
+5
+beg-hef 44
+bge-hef 44
+gha-hef 44
+bjd-hef 44
+bfch-hef 44
+746
+3
+ceb-heg 44
+bcdd-heg 44
+fid-heg 44
+747
+4
+hii-heh 44
+ggc-heh 44
+ed-heh 44
+dcb-heh 44
+748
+3
+ie-hei 44
+fad-hei 44
+if-hei 44
+749
+4
+gcc-hej 44
+cec-hej 44
+ccd-hej 44
+bgbd-hej 44
+750
+5
+dgc-hfa 44
+jga-hfa 44
+jhg-hfa 44
+bdi-hfa 44
+befe-hfa 44
+751
+5
+egc-hfb 44
+icd-hfb 44
+gc-hfb 44
+beh-hfb 44
+bff-hfb 44
+752
+3
+gab-hfc 44
+gjh-hfc 44
+bcdc-hfc 44
+753
+4
+ddc-hfd 44
+bad-hfd 44
+bcec-hfd 44
+eih-hfd 44
+754
+4
+dfb-hfe 44
+gac-hfe 44
+bahd-hfe 44
+ejg-hfe 44
+755
+3
+hge-hff 44
+bacc-hff 44
+bbci-hff 44
+756
+3
+gfd-hfg 44
+ij-hfg 44
+bbac-hfg 44
+757
+5
+eci-hfh 44
+ihf-hfh 44
+ede-hfh 44
+ibb-hfh 44
+bbaj-hfh 44
+758
+3
+heb-hfi 44
+eci-hfi 44
+beih-hfi 44
+759
+3
+gaa-hfj 44
+jfc-hfj 44
+bfhi-hfj 44
+760
+2
+fdb-hga 44
+bbg-hga 44
+761
+6
+iaj-hgb 44
+bdf-hgb 44
+gcc-hgb 44
+dfj-hgb 44
+hfc-hgb 44
+bccd-hgb 44
+762
+4
+dej-hgc 44
+hje-hgc 44
+fea-hgc 44
+fia-hgc 44
+763
+2
+bbfa-hgd 44
+bedb-hgd 44
+764
+3
+efg-hge 44
+jdc-hge 44
+beff-hge 44
+765
+4
+bci-hgf 44
+fea-hgf 44
+icd-hgf 44
+bafe-hgf 44
+766
+3
+ddc-hgg 44
+baib-hgg 44
+ehf-hgg 44
+767
+2
+deg-hgh 44
+dej-hgh 44
+768
+4
+hah-hgi 44
+baai-hgi 44
+cdb-hgi 44
+baja-hgi 44
+769
+1
+bbjj-hgj 44
+770
+6
+ii-hha 44
+ihj-hha 44
+hdd-hha 44
+bi-hha 44
+baad-hha 44
+dag-hha 44
+771
+5
+fj-hhb 44
+dfa-hhb 44
+bbaa-hhb 44
+bbaj-hhb 44
+gfa-hhb 44
+772
+3
+fhc-hhc 44
+eia-hhc 44
+beff-hhc 44
+773
+4
+ch-hhd 44
+gaa-hhd 44
+bdec-hhd 44
+bbd-hhd 44
+774
+5
+gja-hhe 44
+fcd-hhe 44
+dji-hhe 44
+eff-hhe 44
+bdfa-hhe 44
+775
+4
+ed-hhf 44
+dag-hhf 44
+bafj-hhf 44
+bcf-hhf 44
+776
+4
+bcd-hhg 44
+hbb-hhg 44
+ga-hhg 44
+dgd-hhg 44
+777
+2
+ebd-hhh 44
+haa-hhh 44
+778
+2
+dcj-hhi 44
+bdci-hhi 44
+779
+7
+beb-hhj 44
+idc-hhj 44
+hie-hhj 44
+cbg-hhj 44
+chi-hhj 44
+jec-hhj 44
+bfag-hhj 44
+780
+3
+dbf-hia 44
+bbie-hia 44
+jdd-hia 44
+781
+3
+ccc-hib 44
+bbi-hib 44
+bbfb-hib 44
+782
+4
+chh-hic 44
+dhd-hic 44
+dcc-hic 44
+bgcf-hic 44
+783
+1
+bgdg-hid 44
+784
+2
+bjg-hie 44
+bgbb-hie 44
+785
+3
+fje-hif 44
+cii-hif 44
+ggc-hif 44
+786
+3
+gb-hig 44
+fig-hig 44
+che-hig 44
+787
+5
+eii-hih 44
+iaf-hih 44
+ddh-hih 44
+bfg-hih 44
+bdbe-hih 44
+788
+4
+fej-hii 44
+djb-hii 44
+jaj-hii 44
+cgi-hii 44
+789
+6
+fj-hij 44
+hag-hij 44
+dif-hij 44
+bbbd-hij 44
+jff-hij 44
+bji-hij 44
+790
+2
+fae-hja 44
+gbd-hja 44
+791
+3
+cfh-hjb 44
+bde-hjb 44
+cbb-hjb 44
+792
+7
+hcc-hjc 44
+edj-hjc 44
+ifd-hjc 44
+gaj-hjc 44
+bbfi-hjc 44
+bfhe-hjc 44
+hbi-hjc 44
+793
+2
+fef-hjd 44
+bbd-hjd 44
+794
+2
+fgj-hje 44
+bdja-hje 44
+795
+3
+gid-hjf 44
+edj-hjf 44
+beji-hjf 44
+796
+7
+cfa-hjg 44
+gci-hjg 44
+eda-hjg 44
+igd-hjg 44
+jgg-hjg 44
+gdj-hjg 44
+jdh-hjg 44
+797
+2
+caj-hjh 44
+bcg-hjh 44
+798
+3
+bba-hji 44
+iac-hji 44
+hfj-hji 44
+799
+7
+bgc-hjj 44
+fe-hjj 44
+bace-hjj 44
+fgd-hjj 44
+gah-hjj 44
+beea-hjj 44
+cjf-hjj 44
+800
+6
+cij-iaa 44
+deb-iaa 44
+eef-iaa 44
+jcg-iaa 44
+ead-iaa 44
+dhc-iaa 44
+801
+3
+cdh-iab 44
+ech-iab 44
+bdbh-iab 44
+802
+3
+eic-iac 44
+hbi-iac 44
+hia-iac 44
+803
+5
+cba-iad 44
+d-iad 44
+jcd-iad 44
+cgd-iad 44
+dd-iad 44
+804
+5
+cib-iae 44
+bcd-iae 44
+cdf-iae 44
+cjg-iae 44
+fjd-iae 44
+805
+4
+ejf-iaf 44
+gjf-iaf 44
+jd-iaf 44
+ecj-iaf 44
+806
+4
+bage-iag 44
+ihd-iag 44
+ejg-iag 44
+begg-iag 44
+807
+2
+fei-iah 44
+dad-iah 44
+808
+4
+jh-iai 44
+gf-iai 44
+beja-iai 44
+dje-iai 44
+809
+3
+gbh-iaj 44
+gci-iaj 44
+bddg-iaj 44
+810
+5
+bcb-iba 44
+bafb-iba 44
+bbba-iba 44
+bbbj-iba 44
+ejb-iba 44
+811
+2
+iha-ibb 44
+bead-ibb 44
+812
+2
+egb-ibc 44
+bbgf-ibc 44
+813
+2
+bdhd-ibd 44
+bgcj-ibd 44
+814
+3
+fba-ibe 44
+jbe-ibe 44
+bbcc-ibe 44
+815
+3
+dje-ibf 44
+dih-ibf 44
+bffh-ibf 44
+816
+4
+efj-ibg 44
+ceb-ibg 44
+fhg-ibg 44
+bafg-ibg 44
+817
+3
+eja-ibh 44
+bahj-ibh 44
+babb-ibh 44
+818
+5
+fii-ibi 44
+gi-ibi 44
+bjc-ibi 44
+jib-ibi 44
+fdi-ibi 44
+819
+4
+hae-ibj 44
+bbdb-ibj 44
+bbcd-ibj 44
+dfd-ibj 44
+820
+5
+jde-ica 44
+bcfh-ica 44
+becf-ica 44
+edc-ica 44
+dgi-ica 44
+821
+3
+fhj-icb 44
+fib-icb 44
+hfi-icb 44
+822
+2
+fdh-icc 44
+edb-icc 44
+823
+5
+hj-icd 44
+jaa-icd 44
+eig-icd 44
+hcd-icd 44
+jaj-icd 44
+824
+3
+hgi-ice 44
+jfh-ice 44
+ehd-ice 44
+825
+4
+cih-icf 44
+dbb-icf 44
+bcha-icf 44
+fce-icf 44
+826
+3
+bjj-icg 44
+gcg-icg 44
+bcdi-icg 44
+827
+2
+djd-ich 44
+beei-ich 44
+828
+3
+dfa-ici 44
+cj-ici 44
+jc-ici 44
+829
+2
+hbe-icj 44
+jie-icj 44
+830
+5
+hee-ida 44
+jbh-ida 44
+bhf-ida 44
+ehj-ida 44
+bcfd-ida 44
+831
+7
+fce-idb 44
+jcb-idb 44
+cdh-idb 44
+bach-idb 44
+bfjd-idb 44
+cii-idb 44
+ghi-idb 44
+832
+3
+gjg-idc 44
+djj-idc 44
+iij-idc 44
+833
+4
+fj-idd 44
+bbah-idd 44
+fih-idd 44
+bfda-idd 44
+834
+1
+fgc-ide 44
+835
+5
+dh-idf 44
+jhi-idf 44
+efa-idf 44
+dii-idf 44
+bajg-idf 44
+836
+4
+ic-idg 44
+bfi-idg 44
+bagf-idg 44
+dhd-idg 44
+837
+3
+bad-idh 44
+gdg-idh 44
+hhg-idh 44
+838
+5
+hhc-idi 44
+ech-idi 44
+baeh-idi 44
+bbdd-idi 44
+bgfa-idi 44
+839
+3
+bcc-idj 44
+bgf-idj 44
+fdj-idj 44
+840
+4
+chb-iea 44
+eeb-iea 44
+bij-iea 44
+bebf-iea 44
+841
+3
+fhb-ieb 44
+bdaj-ieb 44
+bbie-ieb 44
+842
+5
+hfh-iec 44
+iff-iec 44
+fgf-iec 44
+hfg-iec 44
+bbca-iec 44
+843
+4
+bbid-ied 44
+hhb-ied 44
+jac-ied 44
+bche-ied 44
+844
+3
+efc-iee 44
+baje-iee 44
+bdcd-iee 44
+845
+4
+hag-ief 44
+bfc-ief 44
+ea-ief 44
+bbah-ief 44
+846
+5
+ebg-ieg 44
+hcd-ieg 44
+fjj-ieg 44
+idd-ieg 44
+ffh-ieg 44
+847
+4
+bjg-ieh 44
+bchj-ieh 44
+caj-ieh 44
+bge-ieh 44
+848
+6
+efg-iei 44
+dbf-iei 44
+gdf-iei 44
+hgi-iei 44
+behf-iei 44
+bcgb-iei 44
+849
+2
+bdi-iej 44
+bbh-iej 44
+850
+5
+hcf-ifa 44
+ccc-ifa 44
+bbbi-ifa 44
+bdbe-ifa 44
+bdih-ifa 44
+851
+3
+fgh-ifb 44
+dfh-ifb 44
+bagh-ifb 44
+852
+6
+cee-ifc 44
+ejj-ifc 44
+bchg-ifc 44
+gfa-ifc 44
+fdj-ifc 44
+jid-ifc 44
+853
+4
+bah-ifd 44
+cf-ifd 44
+ijh-ifd 44
+bbhd-ifd 44
+854
+3
+dad-ife 44
+bbdj-ife 44
+hjf-ife 44
+855
+5
+fb-iff 44
+bjb-iff 44
+jgf-iff 44
+cgi-iff 44
+efe-iff 44
+856
+3
+jci-ifg 44
+be-ifg 44
+bgeb-ifg 44
+857
+4
+eif-ifh 44
+baga-ifh 44
+baai-ifh 44
+cid-ifh 44
+858
+2
+bcci-ifi 44
+badf-ifi 44
+859
+1
+chb-ifj 44
+860
+2
+gfj-iga 44
+ebb-iga 44
+861
+2
+gb-igb 44
+cif-igb 44
+862
+3
+eaf-igc 44
+gh-igc 44
+bcgi-igc 44
+863
+3
+ife-igd 44
+ggg-igd 44
+hfd-igd 44
+864
+3
+dbi-ige 44
+hjc-ige 44
+dbj-ige 44
+865
+1
+egi-igf 44
+866
+1
+babd-igg 44
+867
+1
+hag-igh 44
+868
+3
+gag-igi 44
+bcbj-igi 44
+bbg-igi 44
+869
+4
+gih-igj 44
+dde-igj 44
+jba-igj 44
+bdie-igj 44
+870
+4
+hgf-iha 44
+jfa-iha 44
+bcdj-iha 44
+bbfe-iha 44
+871
+2
+eii-ihb 44
+bbcj-ihb 44
+872
+3
+eba-ihc 44
+jfd-ihc 44
+ehj-ihc 44
+873
+4
+fj-ihd 44
+behh-ihd 44
+bbdd-ihd 44
+bgei-ihd 44
+874
+3
+hdi-ihe 44
+hdj-ihe 44
+hdg-ihe 44
+875
+5
+eh-ihf 44
+ijj-ihf 44
+cfb-ihf 44
+bbad-ihf 44
+bfcc-ihf 44
+876
+4
+gbf-ihg 44
+cdj-ihg 44
+gij-ihg 44
+bcj-ihg 44
+877
+3
+eef-ihh 44
+cib-ihh 44
+gih-ihh 44
+878
+5
+gjh-ihi 44
+jg-ihi 44
+hdb-ihi 44
+bdgf-ihi 44
+bebh-ihi 44
+879
+2
+cef-ihj 44
+caf-ihj 44
+880
+3
+fgb-iia 44
+hfh-iia 44
+fid-iia 44
+881
+5
+id-iib 44
+cfb-iib 44
+bafa-iib 44
+baeb-iib 44
+chd-iib 44
+882
+4
+iie-iic 44
+fag-iic 44
+gfa-iic 44
+jje-iic 44
+883
+4
+cej-iid 44
+ffa-iid 44
+iae-iid 44
+bfei-iid 44
+884
+5
+bec-iie 44
+jee-iie 44
+bgc-iie 44
+cbb-iie 44
+bejf-iie 44
+885
+2
+hif-iif 44
+bbei-iif 44
+886
+3
+hcg-iig 44
+hjb-iig 44
+ddg-iig 44
+887
+1
+hbj-iih 44
+888
+1
+bbib-iii 44
+889
+1
+baaa-iij 44
+890
+3
+iaa-ija 44
+bcfe-ija 44
+dbj-ija 44
+891
+1
+ega-ijb 44
+892
+4
+bbf-ijc 44
+hg-ijc 44
+cgi-ijc 44
+bcij-ijc 44
+893
+3
+gdh-ijd 44
+beda-ijd 44
+hfi-ijd 44
+894
+4
+bef-ije 44
+gda-ije 44
+bbbj-ije 44
+beef-ije 44
+895
+2
+hei-ijf 44
+bj-ijf 44
+896
+2
+ig-ijg 44
+behi-ijg 44
+897
+2
+hhg-ijh 44
+bii-ijh 44
+898
+1
+gd-iji 44
+899
+2
+cff-ijj 44
+iaf-ijj 44
+900
+3
+cf-jaa 44
+jbg-jaa 44
+bbjh-jaa 44
+901
+3
+djh-jab 44
+baej-jab 44
+gbe-jab 44
+902
+5
+hca-jac 44
+ejj-jac 44
+ghg-jac 44
+ibb-jac 44
+bgg-jac 44
+903
+3
+djc-jad 44
+bcij-jad 44
+dgj-jad 44
+904
+3
+cja-jae 44
+ee-jae 44
+bbih-jae 44
+905
+2
+bdig-jaf 44
+bgd-jaf 44
+906
+3
+cg-jag 44
+cbc-jag 44
+bdij-jag 44
+907
+6
+cfe-jah 44
+fie-jah 44
+bajg-jah 44
+bchh-jah 44
+bcif-jah 44
+baia-jah 44
+908
+5
+hah-jai 44
+efa-jai 44
+gbj-jai 44
+bbbg-jai 44
+bffi-jai 44
+909
+2
+iic-jaj 44
+ebd-jaj 44
+910
+3
+cgd-jba 44
+gej-jba 44
+bdef-jba 44
+911
+2
+gjc-jbb 44
+dhg-jbb 44
+912
+2
+gbg-jbc 44
+jca-jbc 44
+913
+3
+dij-jbd 44
+bgh-jbd 44
+bfad-jbd 44
+914
+3
+fbj-jbe 44
+bbig-jbe 44
+de-jbe 44
+915
+5
+gfg-jbf 44
+jbe-jbf 44
+bedi-jbf 44
+hai-jbf 44
+cc-jbf 44
+916
+5
+igc-jbg 44
+bjd-jbg 44
+ehd-jbg 44
+baie-jbg 44
+bdid-jbg 44
+917
+3
+bji-jbh 44
+babf-jbh 44
+dbd-jbh 44
+918
+2
+hai-jbi 44
+bdcc-jbi 44
+919
+5
+ieg-jbj 44
+hdc-jbj 44
+jhb-jbj 44
+ejd-jbj 44
+daa-jbj 44
+920
+4
+idf-jca 44
+jde-jca 44
+jfg-jca 44
+fdh-jca 44
+921
+4
+ihh-jcb 44
+hhf-jcb 44
+gae-jcb 44
+faj-jcb 44
+922
+3
+fej-jcc 44
+fjg-jcc 44
+gfb-jcc 44
+923
+4
+ied-jcd 44
+bagh-jcd 44
+hgh-jcd 44
+jcc-jcd 44
+924
+1
+bafi-jce 44
+925
+3
+igj-jcf 44
+djc-jcf 44
+ghe-jcf 44
+926
+3
+babe-jcg 44
+cfj-jcg 44
+ggg-jcg 44
+927
+1
+hhh-jch 44
+928
+6
+hhe-jci 44
+fch-jci 44
+fb-jci 44
+beia-jci 44
+bfbf-jci 44
+gih-jci 44
+929
+1
+bch-jcj 1930
+3
+cjb-jda 44
+bgdf-jda 44
+bdig-jda 44
+931
+5
+bbaj-jdb 44
+jji-jdb 44
+cgf-jdb 44
+hge-jdb 44
+jhc-jdb 44
+932
+3
+hbh-jdc 44
+gdh-jdc 44
+jc-jdc 44
+933
+3
+dic-jdd 44
+dhc-jdd 44
+ffh-jdd 44
+934
+6
+bie-jde 44
+baad-jde 44
+bcjb-jde 44
+bdgi-jde 44
+bi-jde 44
+ha-jde 44
+935
+1
+cbe-jdf 1936
+7
+ibi-jdg 44
+fbf-jdg 44
+dhj-jdg 44
+gea-jdg 44
+bhb-jdg 44
+bh-jdg 44
+cjh-jdg 44
+937
+1
+ea-jdh 44
+938
+1
+dfb-jdi 44
+939
+4
+ja-jdj 44
+eic-jdj 44
+jfj-jdj 44
+dhb-jdj 44
+940
+2
+ije-jea 44
+ef-jea 44
+941
+1
+jad-jeb 44
+942
+5
+ehc-jec 44
+bgb-jec 44
+dae-jec 44
+bdfg-jec 44
+badg-jec 44
+943
+1
+djc-jed 44
+944
+4
+ceg-jee 44
+ej-jee 44
+cfg-jee 44
+hjb-jee 44
+945
+5
+beh-jef 44
+fad-jef 44
+bbfe-jef 44
+bbje-jef 44
+badj-jef 44
+946
+2
+bbj-jeg 44
+baib-jeg 44
+947
+3
+ddj-jeh 44
+bafe-jeh 44
+bgdb-jeh 44
+948
+2
+eff-jei 44
+jja-jei 44
+949
+3
+fgj-jej 44
+dch-jej 44
+ehb-jej 44
+950
+4
+bhe-jfa 44
+iec-jfa 44
+chb-jfa 44
+fdj-jfa 44
+951
+3
+cge-jfb 44
+bbdb-jfb 44
+ebb-jfb 44
+952
+3
+cgh-jfc 44
+jgb-jfc 44
+egb-jfc 44
+953
+2
+fbd-jfd 44
+babc-jfd 44
+954
+4
+egf-jfe 44
+bcif-jfe 44
+bfgb-jfe 44
+c-jfe 44
+955
+3
+ee-jff 44
+egg-jff 44
+bfeb-jff 44
+956
+4
+fic-jfg 44
+ghc-jfg 44
+bccb-jfg 44
+ega-jfg 44
+957
+5
+eij-jfh 44
+ddc-jfh 44
+fdf-jfh 44
+bffj-jfh 44
+gfb-jfh 44
+958
+4
+eib-jfi 44
+dii-jfi 44
+befa-jfi 44
+bbj-jfi 44
+959
+5
+bcc-jfj 44
+jfa-jfj 44
+bcaj-jfj 44
+bdhe-jfj 44
+eac-jfj 44
+960
+5
+fdf-jga 44
+bagg-jga 44
+bfab-jga 44
+bfcd-jga 44
+bfcf-jga 44
+961
+1
+ecd-jgb 44
+962
+5
+ied-jgc 44
+babj-jgc 44
+bba-jgc 44
+cfa-jgc 44
+ibd-jgc 44
+963
+1
+ghb-jgd 44
+964
+5
+dda-jge 44
+bagf-jge 44
+gbf-jge 44
+bedj-jge 44
+bcgj-jge 44
+965
+5
+fbf-jgf 44
+hhj-jgf 44
+i-jgf 44
+fjd-jgf 44
+bhg-jgf 44
+966
+3
+cfd-jgg 44
+bajc-jgg 44
+heh-jgg 44
+967
+2
+jcb-jgh 44
+dfc-jgh 44
+968
+2
+gjf-jgi 44
+iae-jgi 44
+969
+1
+eca-jgj 1970
+4
+efh-jha 44
+jia-jha 44
+bea-jha 44
+ghd-jha 44
+971
+1
+ejg-jhb 44
+972
+4
+eej-jhc 44
+ced-jhc 44
+gga-jhc 44
+hei-jhc 44
+973
+2
+geb-jhd 44
+gba-jhd 44
+974
+3
+jae-jhe 44
+jih-jhe 44
+bbai-jhe 44
+975
+4
+gid-jhf 44
+bajj-jhf 44
+fch-jhf 44
+behe-jhf 44
+976
+2
+fbi-jhg 44
+hde-jhg 44
+977
+3
+gab-jhh 44
+gej-jhh 44
+bfia-jhh 44
+978
+3
+fca-jhi 44
+bagi-jhi 44
+bcj-jhi 44
+979
+1
+eei-jhj 44
+980
+7
+hdd-jia 44
+baac-jia 44
+bje-jia 44
+baca-jia 44
+bded-jia 44
+ecc-jia 44
+ddg-jia 44
+981
+4
+bab-jib 44
+gda-jib 44
+iac-jib 44
+bjf-jib 44
+982
+2
+hff-jic 44
+igj-jic 44
+983
+4
+jff-jid 44
+cag-jid 44
+bdgd-jid 44
+bgfj-jid 44
+984
+3
+hdb-jie 44
+baih-jie 44
+cij-jie 44
+985
+4
+hah-jif 44
+dge-jif 44
+bb-jif 44
+bdih-jif 44
+986
+3
+bbe-jig 44
+bafi-jig 44
+gha-jig 44
+987
+3
+jhi-jih 44
+gfi-jih 44
+bfa-jih 44
+988
+4
+bjh-jii 44
+ihe-jii 44
+ddf-jii 44
+cei-jii 44
+989
+2
+ge-jij 44
+bah-jij 44
+990
+1
+idh-jja 44
+991
+6
+ihg-jjb 44
+bdi-jjb 44
+jif-jjb 44
+hja-jjb 44
+ieg-jjb 44
+cjc-jjb 44
+992
+3
+jhg-jjc 44
+jbg-jjc 44
+bcgb-jjc 44
+993
+1
+daj-jjd 44
+994
+5
+hdd-jje 44
+badd-jje 44
+baig-jje 44
+bbcg-jje 44
+ej-jje 44
+995
+2
+hja-jjf 44
+ccf-jjf 44
+996
+2
+efa-jjg 44
+gfc-jjg 44
+997
+1
+geh-jjh 44
+998
+2
+hef-jji 44
+j-jji 44
+999
+3
+edg-jjj 44
+baea-jjj 44
+bcci-jjj 44
+1000
+1
+fgi-baaa 44
+1001
+5
+jeg-baab 44
+ifd-baab 44
+bbdf-baab 44
+bc-baab 44
+efi-baab 44
+1002
+2
+hig-baac 44
+jbh-baac 44
+1003
+4
+ehj-baad 44
+jcd-baad 44
+bbbh-baad 44
+ceb-baad 44
+1004
+2
+dib-baae 44
+eje-baae 44
+1005
+2
+baae-baaf 44
+bdej-baaf 44
+1006
+5
+fc-baag 44
+cdc-baag 44
+jci-baag 44
+beja-baag 44
+ffj-baag 44
+1007
+2
+baef-baah 44
+jab-baah 44
+1008
+4
+dgd-baai 44
+bacb-baai 44
+baha-baai 44
+igj-baai 44
+1009
+1
+ceb-baaj 44
+1010
+5
+dfi-baba 44
+haj-baba 44
+bbfb-baba 44
+ehi-baba 44
+jdf-baba 44
+1011
+3
+ggi-babb 44
+edh-babb 44
+djh-babb 44
+1012
+5
+jga-babc 44
+ege-babc 44
+beag-babc 44
+baif-babc 44
+if-babc 44
+1013
+3
+gec-babd 44
+bddi-babd 44
+dfe-babd 44
+1014
+4
+cjc-babe 44
+ebj-babe 44
+ije-babe 44
+dbj-babe 44
+1015
+2
+ceg-babf 44
+begj-babf 44
+1016
+3
+bbdj-babg 44
+beba-babg 44
+bdhd-babg 44
+1017
+2
+cbg-babh 44
+baia-babh 44
+1018
+3
+gd-babi 44
+cdb-babi 44
+baij-babi 44
+1019
+3
+bbcg-babj 44
+fdc-babj 44
+bfib-babj 44
+1020
+1
+igh-baca 44
+1021
+6
+jg-bacb 44
+heb-bacb 44
+jce-bacb 44
+jhb-bacb 44
+bcje-bacb 44
+bgbj-bacb 44
+1022
+3
+feg-bacc 44
+hbc-bacc 44
+gdb-bacc 44
+1023
+1
+jgf-bacd 44
+1024
+2
+dhb-bace 44
+bbcd-bace 44
+1025
+1
+ifd-bacf 44
+1026
+2
+cja-bacg 44
+bgdb-bacg 44
+1027
+3
+fdd-bach 44
+baag-bach 44
+bih-bach 44
+1028
+2
+egi-baci 44
+ejc-baci 44
+1029
+4
+ib-bacj 44
+bada-bacj 44
+iha-bacj 44
+ibj-bacj 44
+1030
+4
+bbcf-bada 44
+hej-bada 44
+gdb-bada 44
+ecj-bada 44
+1031
+3
+bdf-badb 44
+dcd-badb 44
+bddf-badb 44
+1032
+3
+cad-badc 44
+hfg-badc 44
+ifg-badc 44
+1033
+3
+jc-badd 44
+bcac-badd 44
+gh-badd 44
+1034
+1
+ega-bade 44
+1035
+1
+fgh-badf 44
+1036
+2
+jhi-badg 44
+bbbf-badg 44
+1037
+2
+fhe-badh 44
+bbgj-badh 44
+1038
+2
+ghg-badi 44
+bbdi-badi 44
+1039
+4
+ff-badj 44
+ijj-badj 44
+bbhf-badj 44
+bjf-badj 44
+1040
+4
+jgg-baea 44
+cid-baea 44
+he-baea 44
+hdd-baea 44
+1041
+4
+iag-baeb 44
+fd-baeb 44
+bbaf-baeb 44
+bdcj-baeb 44
+1042
+5
+jha-baec 44
+bcac-baec 44
+hbg-baec 44
+jaa-baec 44
+ccb-baec 44
+1043
+1
+djc-baed 44
+1044
+1
+baeg-baee 44
+1045
+4
+efd-baef 44
+bdbf-baef 44
+fi-baef 44
+gj-baef 44
+1046
+4
+hhd-baeg 44
+jdc-baeg 44
+baic-baeg 44
+bcef-baeg 44
+1047
+2
+dfd-baeh 44
+ihg-baeh 44
+1048
+4
+chj-baei 44
+bhc-baei 44
+bagg-baei 44
+bcig-baei 44
+1049
+4
+bbhh-baej 44
+hih-baej 44
+bdij-baej 44
+bdfj-baej 44
+1050
+5
+hgc-bafa 44
+babe-bafa 44
+jdj-bafa 44
+cff-bafa 44
+dgj-bafa 44
+1051
+4
+baah-bafb 44
+bcji-bafb 44
+bbbd-bafb 44
+gdg-bafb 44
+1052
+4
+jce-bafc 44
+hii-bafc 44
+gfg-bafc 44
+bbef-bafc 44
+1053
+2
+fei-bafd 44
+cfa-bafd 44
+1054
+3
+dhc-bafe 44
+fdd-bafe 44
+bgf-bafe 44
+1055
+2
+hcj-baff 44
+bfif-baff 44
+1056
+1
+fdd-bafg 44
+1057
+1
+jbd-bafh 44
+1058
+4
+bhj-bafi 44
+chi-bafi 44
+bbgf-bafi 44
+bag-bafi 44
+1059
+3
+gfi-bafj 44
+bcag-bafj 44
+hef-bafj 44
+1060
+2
+ded-baga 44
+bbag-baga 44
+1061
+2
+fhb-bagb 44
+bcgd-bagb 44
+1062
+1
+gie-bagc 44
+1063
+3
+beg-bagd 44
+hgd-bagd 44
+ibg-bagd 44
+1064
+4
+jfb-bage 44
+babh-bage 44
+bbcj-bage 44
+jhf-bage 44
+1065
+2
+bgd-bagf 44
+bede-bagf 44
+1066
+5
+jid-bagg 44
+baie-bagg 44
+bbgh-bagg 44
+fcb-bagg 44
+hgb-bagg 44
+1067
+6
+jbd-bagh 44
+ijg-bagh 44
+cgf-bagh 44
+eab-bagh 44
+cde-bagh 44
+gje-bagh 44
+1068
+3
+ehh-bagi 44
+ggh-bagi 44
+bcac-bagi 44
+1069
+3
+jhd-bagj 44
+bad-bagj 44
+bgj-bagj 44
+1070
+2
+bcgf-baha 44
+bgcc-baha 44
+1071
+2
+cgc-bahb 44
+bgah-bahb 44
+1072
+1
+hbg-bahc 44
+1073
+6
+efa-bahd 44
+dii-bahd 44
+bcgf-bahd 44
+behd-bahd 44
+beij-bahd 44
+dbb-bahd 44
+1074
+1
+bcdi-bahe 44
+1075
+2
+bagd-bahf 44
+ffi-bahf 44
+1076
+2
+bgc-bahg 44
+gjc-bahg 44
+1077
+4
+hea-bahh 44
+bahg-bahh 44
+bedg-bahh 44
+jab-bahh 44
+1078
+4
+hab-bahi 44
+ceh-bahi 44
+ghc-bahi 44
+ia-bahi 44
+1079
+2
+ghi-bahj 44
+fbe-bahj 44
+1080
+3
+jif-baia 44
+gaf-baia 44
+bgg-baia 44
+1081
+2
+iac-baib 44
+hih-baib 44
+1082
+3
+babi-baic 44
+iaa-baic 44
+bcgg-baic 44
+1083
+2
+ib-baid 44
+bejd-baid 44
+1084
+5
+iaf-baie 44
+bade-baie 44
+chg-baie 44
+efc-baie 44
+bai-baie 44
+1085
+1
+jcb-baif 44
+1086
+4
+edd-baig 44
+jgh-baig 44
+ihc-baig 44
+hif-baig 44
+1087
+6
+gcf-baih 44
+bbgd-baih 44
+eea-baih 44
+bcej-baih 44
+becj-baih 44
+bcgf-baih 44
+1088
+2
+ffj-baii 44
+bbab-baii 44
+1089
+3
+bfh-baij 44
+ife-baij 44
+bha-baij 44
+1090
+4
+bif-baja 44
+cgg-baja 44
+bcfj-baja 44
+cdh-baja 44
+1091
+3
+ji-bajb 44
+bdfg-bajb 44
+bafj-bajb 44
+1092
+3
+hih-bajc 44
+bbae-bajc 44
+dhb-bajc 44
+1093
+4
+hha-bajd 44
+hhg-bajd 44
+edc-bajd 44
+bfjc-bajd 44
+1094
+4
+iej-baje 44
+hhe-baje 44
+bdab-baje 44
+gfi-baje 44
+1095
+5
+eca-bajf 44
+jcd-bajf 44
+jeb-bajf 44
+bbgi-bajf 44
+bcje-bajf 44
+1096
+2
+cgf-bajg 44
+fi-bajg 44
+1097
+2
+hba-bajh 44
+bia-bajh 44
+1098
+2
+baje-baji 44
+bhf-baji 44
+1099
+3
+ejh-bajj 44
+eci-bajj 44
+bajf-bajj 44
+1100
+3
+ghb-bbaa 44
+bcfa-bbaa 44
+beeg-bbaa 44
+1101
+2
+cde-bbab 44
+bbfc-bbab 44
+1102
+4
+dce-bbac 44
+iif-bbac 44
+fed-bbac 44
+bejd-bbac 44
+1103
+2
+bbag-bbad 44
+jbh-bbad 44
+1104
+6
+gid-bbae 44
+eah-bbae 44
+bcfc-bbae 44
+hg-bbae 44
+gc-bbae 44
+bgba-bbae 44
+1105
+2
+eff-bbaf 44
+hhg-bbaf 44
+1106
+1
+gff-bbag 44
+1107
+4
+cja-bbah 44
+fhe-bbah 44
+beci-bbah 44
+bfjh-bbah 44
+1108
+3
+bafj-bbai 44
+bhj-bbai 44
+bdch-bbai 44
+1109
+1
+ich-bbaj 44
+1110
+5
+hde-bbba 44
+babb-bbba 44
+cgd-bbba 44
+hdb-bbba 44
+jid-bbba 44
+1111
+1
+hed-bbbb 44
+1112
+1
+dff-bbbc 11113
+4
+icb-bbbd 44
+baec-bbbd 44
+bbh-bbbd 44
+bgab-bbbd 44
+1114
+3
+bcc-bbbe 44
+bccj-bbbe 44
+dhj-bbbe 44
+1115
+3
+gej-bbbf 44
+faj-bbbf 44
+cef-bbbf 44
+1116
+3
+ief-bbbg 44
+baci-bbbg 44
+icb-bbbg 44
+1117
+2
+ehg-bbbh 44
+bagc-bbbh 44
+1118
+2
+bac-bbbi 44
+gee-bbbi 44
+1119
+3
+big-bbbj 44
+bahe-bbbj 44
+bgdj-bbbj 44
+1120
+2
+bdd-bbca 44
+jcc-bbca 44
+1121
+6
+djj-bbcb 44
+ccc-bbcb 44
+jfd-bbcb 44
+fbc-bbcb 44
+iee-bbcb 44
+hih-bbcb 44
+1122
+2
+hbd-bbcc 44
+bgf-bbcc 44
+1123
+3
+baii-bbcd 44
+jjd-bbcd 44
+gje-bbcd 44
+1124
+2
+iff-bbce 44
+gde-bbce 44
+1125
+2
+bbae-bbcf 44
+fhc-bbcf 44
+1126
+3
+fcg-bbcg 44
+bdid-bbcg 44
+ccj-bbcg 44
+1127
+1
+icb-bbch 44
+1128
+2
+bie-bbci 44
+babh-bbci 44
+1129
+2
+hee-bbcj 44
+bbbb-bbcj 44
+1130
+3
+jde-bbda 44
+ehh-bbda 44
+bbji-bbda 44
+1131
+5
+bbf-bbdb 44
+hjj-bbdb 44
+idc-bbdb 44
+bfdj-bbdb 44
+ifa-bbdb 44
+1132
+1
+jh-bbdc 44
+1133
+5
+fgh-bbdd 44
+gid-bbdd 44
+bci-bbdd 44
+eii-bbdd 44
+beb-bbdd 44
+1134
+1
+jif-bbde 44
+1135
+3
+baed-bbdf 44
+gbi-bbdf 44
+gbc-bbdf 44
+1136
+3
+bhc-bbdg 44
+bid-bbdg 44
+bgdc-bbdg 44
+1137
+3
+eef-bbdh 44
+bcjd-bbdh 44
+ghb-bbdh 44
+1138
+3
+baee-bbdi 44
+hbh-bbdi 44
+bcba-bbdi 44
+1139
+1
+ghi-bbdj 44
+1140
+3
+dfh-bbea 44
+cga-bbea 44
+df-bbea 44
+1141
+5
+ji-bbeb 44
+bbde-bbeb 44
+ihd-bbeb 44
+bbae-bbeb 44
+bffc-bbeb 44
+1142
+2
+cai-bbec 44
+bcie-bbec 44
+1143
+1
+jc-bbed 44
+1144
+2
+gcj-bbee 44
+bdee-bbee 44
+1145
+4
+badd-bbef 44
+fjf-bbef 44
+ce-bbef 44
+fjb-bbef 44
+1146
+3
+eca-bbeg 44
+bcjg-bbeg 44
+bgbc-bbeg 44
+1147
+2
+ghj-bbeh 44
+eg-bbeh 44
+1148
+2
+gej-bbei 44
+eif-bbei 44
+1149
+3
+fci-bbej 44
+bcbb-bbej 44
+fja-bbej 44
+1150
+2
+jf-bbfa 44
+bacc-bbfa 44
+1151
+5
+fgd-bbfb 44
+bbgg-bbfb 44
+baji-bbfb 44
+ghj-bbfb 44
+bdah-bbfb 44
+1152
+2
+ibh-bbfc 44
+bfej-bbfc 44
+1153
+4
+eaa-bbfd 44
+ebc-bbfd 44
+bdcj-bbfd 44
+bdje-bbfd 44
+1154
+2
+chg-bbfe 44
+bbgi-bbfe 44
+1155
+6
+fcc-bbff 44
+jig-bbff 44
+dbh-bbff 44
+ihi-bbff 44
+bdjd-bbff 44
+hg-bbff 44
+1156
+4
+fea-bbfg 44
+eee-bbfg 44
+bcjh-bbfg 44
+bfee-bbfg 44
+1157
+3
+efd-bbfh 44
+gec-bbfh 44
+bbjg-bbfh 44
+1158
+3
+bbej-bbfi 44
+bace-bbfi 44
+bfhb-bbfi 44
+1159
+4
+babh-bbfj 44
+cbc-bbfj 44
+ifc-bbfj 44
+cje-bbfj 44
+1160
+2
+jbc-bbga 44
+eji-bbga 44
+1161
+4
+iic-bbgb 44
+jff-bbgb 44
+hi-bbgb 44
+hgd-bbgb 44
+1162
+1
+bafa-bbgc 44
+1163
+1
+bgag-bbgd 44
+1164
+4
+ddd-bbge 44
+eb-bbge 44
+bbff-bbge 44
+ihg-bbge 44
+1165
+1
+fcj-bbgf 44
+1166
+4
+bcde-bbgg 44
+bdai-bbgg 44
+ca-bbgg 44
+gfh-bbgg 44
+1167
+1
+bbei-bbgh 44
+1168
+4
+jab-bbgi 44
+bdgi-bbgi 44
+bfi-bbgi 44
+jgi-bbgi 44
+1169
+4
+bbcj-bbgj 44
+hjc-bbgj 44
+eah-bbgj 44
+bejh-bbgj 44
+1170
+2
+fbe-bbha 44
+begi-bbha 44
+1171
+2
+djd-bbhb 44
+iec-bbhb 44
+1172
+3
+jdi-bbhc 44
+cbh-bbhc 44
+bca-bbhc 44
+1173
+4
+ece-bbhd 44
+bced-bbhd 44
+j-bbhd 44
+bdb-bbhd 44
+1174
+4
+fh-bbhe 44
+gfe-bbhe 44
+bbgb-bbhe 44
+id-bbhe 44
+1175
+3
+dia-bbhf 44
+baif-bbhf 44
+bfec-bbhf 44
+1176
+1
+bai-bbhg 11177
+2
+bcjf-bbhh 44
+beee-bbhh 44
+1178
+2
+hgi-bbhi 44
+bfge-bbhi 44
+1179
+1
+c-bbhj 44
+1180
+3
+ij-bbia 44
+ei-bbia 44
+edb-bbia 44
+1181
+1
+bdi-bbib 44
+1182
+2
+iab-bbic 44
+befc-bbic 44
+1183
+1
+bbdd-bbid 44
+1184
+3
+def-bbie 44
+dee-bbie 44
+bbhj-bbie 44
+1185
+2
+bij-bbif 44
+dcj-bbif 44
+1186
+1
+cig-bbig 44
+1187
+2
+bfd-bbih 44
+gc-bbih 44
+1188
+2
+jhc-bbii 44
+bfgf-bbii 44
+1189
+3
+beci-bbij 44
+bbdf-bbij 44
+cdd-bbij 44
+1190
+2
+bacb-bbja 44
+fec-bbja 44
+1191
+2
+gje-bbjb 44
+ffj-bbjb 44
+1192
+3
+bbha-bbjc 44
+bhc-bbjc 44
+ii-bbjc 44
+1193
+1
+jig-bbjd 44
+1194
+1
+cbd-bbje 44
+1195
+4
+dji-bbjf 44
+fcj-bbjf 44
+jbg-bbjf 44
+haj-bbjf 44
+1196
+3
+hjb-bbjg 44
+bagj-bbjg 44
+bbfe-bbjg 44
+1197
+2
+jih-bbjh 44
+bcjb-bbjh 44
+1198
+3
+bch-bbji 44
+hhi-bbji 44
+ijh-bbji 44
+1199
+1
+cig-bbjj 44
+1200
+2
+bbie-bcaa 44
+bgb-bcaa 44
+1201
+4
+jjj-bcab 44
+dfi-bcab 44
+bchi-bcab 44
+gce-bcab 44
+1202
+3
+fa-bcac 44
+hac-bcac 44
+had-bcac 44
+1203
+3
+hcd-bcad 44
+bdf-bcad 44
+bgcb-bcad 44
+1204
+2
+ibg-bcae 44
+bdaj-bcae 44
+1205
+3
+jh-bcaf 44
+bbha-bcaf 44
+bcda-bcaf 44
+1206
+2
+babb-bcag 44
+bgch-bcag 44
+1207
+1
+eed-bcah 44
+1208
+1
+bbcj-bcai 44
+1209
+1
+bbji-bcaj 44
+1210
+2
+ejb-bcba 44
+gfc-bcba 44
+1211
+3
+hag-bcbb 44
+bdbj-bcbb 44
+die-bcbb 44
+1212
+5
+bbai-bcbc 44
+bcij-bcbc 44
+dbe-bcbc 44
+bafj-bcbc 44
+ef-bcbc 44
+1213
+1
+baca-bcbd 44
+1214
+2
+gda-bcbe 44
+bdd-bcbe 44
+1215
+2
+igc-bcbf 44
+bged-bcbf 44
+1216
+3
+iea-bcbg 44
+behc-bcbg 44
+dbh-bcbg 44
+1217
+1
+bhg-bcbh 44
+1218
+3
+jcf-bcbi 44
+jdd-bcbi 44
+bfcf-bcbi 44
+1219
+3
+hgc-bcbj 44
+bcch-bcbj 44
+hjj-bcbj 44
+1220
+4
+fb-bcca 44
+bdhj-bcca 44
+jfe-bcca 44
+behj-bcca 44
+1221
+3
+bcag-bccb 44
+egb-bccb 44
+cid-bccb 44
+1222
+1
+edj-bccc 44
+1223
+3
+ced-bccd 44
+behg-bccd 44
+bfed-bccd 44
+1224
+2
+eci-bcce 44
+iib-bcce 44
+1225
+2
+bajb-bccf 44
+bfhd-bccf 44
+1226
+2
+badf-bccg 44
+begg-bccg 44
+1227
+1
+hjg-bcch 44
+1228
+2
+hjd-bcci 44
+bcae-bcci 44
+1229
+6
+hci-bccj 44
+dci-bccj 44
+cfg-bccj 44
+bdeb-bccj 44
+gbe-bccj 44
+bg-bccj 44
+1230
+3
+dh-bcda 44
+beii-bcda 44
+ijd-bcda 44
+1231
+3
+baci-bcdb 44
+bddd-bcdb 44
+bbeb-bcdb 44
+1232
+4
+ghb-bcdc 44
+bfga-bcdc 44
+bcj-bcdc 44
+bccd-bcdc 44
+1233
+3
+bbfh-bcdd 44
+bagh-bcdd 44
+bdid-bcdd 44
+1234
+5
+gic-bcde 44
+cba-bcde 44
+baji-bcde 44
+bcha-bcde 44
+beje-bcde 44
+1235
+1
+bbef-bcdf 44
+1236
+3
+jje-bcdg 44
+chc-bcdg 44
+hjc-bcdg 44
+1237
+2
+faf-bcdh 44
+bchf-bcdh 44
+1238
+3
+cfg-bcdi 44
+becb-bcdi 44
+hee-bcdi 44
+1239
+1
+fdb-bcdj 44
+1240
+1
+becb-bcea 44
+1241
+2
+idj-bceb 44
+bfcf-bceb 44
+1242
+1
+dgj-bcec 44
+1243
+1
+bcjd-bced 44
+1244
+6
+gdf-bcee 44
+ejh-bcee 44
+bdca-bcee 44
+bdja-bcee 44
+ffd-bcee 44
+iai-bcee 44
+1245
+2
+fbj-bcef 44
+fbb-bcef 44
+1246
+1
+cca-bceg 44
+1247
+4
+bge-bceh 44
+bbdf-bceh 44
+bdae-bceh 44
+fab-bceh 44
+1248
+1
+bci-bcei 44
+1249
+3
+jfh-bcej 44
+ef-bcej 44
+gif-bcej 44
+1250
+2
+djh-bcfa 44
+jfh-bcfa 44
+1251
+1
+gbc-bcfb 11252
+2
+jbj-bcfc 44
+cig-bcfc 44
+1253
+3
+jeh-bcfd 44
+beie-bcfd 44
+idg-bcfd 44
+1254
+1
+jh-bcfe 44
+1255
+4
+ddd-bcff 44
+hfh-bcff 44
+iie-bcff 44
+begg-bcff 44
+1256
+2
+fjj-bcfg 44
+bcje-bcfg 44
+1257
+1
+egd-bcfh 44
+1258
+1
+ihe-bcfi 44
+1259
+4
+jii-bcfj 44
+cig-bcfj 44
+bchb-bcfj 44
+ibc-bcfj 44
+1260
+1
+ghc-bcga 44
+1261
+2
+eai-bcgb 44
+jae-bcgb 44
+1262
+2
+bahc-bcgc 44
+beih-bcgc 44
+1263
+1
+gba-bcgd 44
+1264
+3
+baih-bcge 44
+bddi-bcge 44
+bgh-bcge 44
+1265
+1
+bbga-bcgf 44
+1266
+2
+beej-bcgg 44
+bfhf-bcgg 44
+1267
+2
+cbj-bcgh 44
+bdjg-bcgh 44
+1268
+4
+bfh-bcgi 44
+hce-bcgi 44
+bge-bcgi 44
+fca-bcgi 44
+1269
+3
+bdbg-bcgj 44
+beae-bcgj 44
+bfci-bcgj 44
+1270
+2
+dgg-bcha 44
+deh-bcha 44
+1271
+2
+hhd-bchb 44
+bdfj-bchb 44
+1272
+2
+bdb-bchc 44
+cej-bchc 44
+1273
+2
+jbd-bchd 44
+bdaf-bchd 44
+1274
+2
+gcd-bche 44
+becg-bche 44
+1275
+2
+hdj-bchf 44
+bfag-bchf 44
+1276
+4
+hhj-bchg 44
+hga-bchg 44
+idc-bchg 44
+bebi-bchg 44
+1277
+5
+cjb-bchh 44
+bcjb-bchh 44
+bcjj-bchh 44
+bbij-bchh 44
+hhi-bchh 44
+1278
+2
+bcdj-bchi 44
+ifh-bchi 44
+1279
+1
+jcd-bchj 44
+1280
+5
+hid-bcia 44
+hhg-bcia 44
+ibc-bcia 44
+baid-bcia 44
+bgec-bcia 44
+1281
+4
+bdcc-bcib 44
+bje-bcib 44
+bfgd-bcib 44
+dde-bcib 44
+1282
+1
+iji-bcic 11283
+1
+bede-bcid 44
+1284
+3
+bbgh-bcie 44
+bebd-bcie 44
+eic-bcie 44
+1285
+2
+jhh-bcif 44
+bdjb-bcif 44
+1286
+1
+fae-bcig 44
+1287
+1
+cae-bcih 44
+1288
+3
+cga-bcii 44
+bafh-bcii 44
+jeh-bcii 44
+1289
+1
+ebd-bcij 44
+1290
+3
+ica-bcja 44
+hhd-bcja 44
+bbfi-bcja 44
+1291
+2
+bcaa-bcjb 44
+dba-bcjb 44
+1292
+2
+bbdg-bcjc 44
+bbaf-bcjc 44
+1293
+1
+hdf-bcjd 44
+1294
+1
+bbfh-bcje 44
+1295
+4
+dde-bcjf 44
+fda-bcjf 44
+bdjc-bcjf 44
+bedc-bcjf 44
+1296
+2
+jce-bcjg 44
+eii-bcjg 44
+1297
+1
+dch-bcjh 44
+1298
+2
+ida-bcji 44
+dg-bcji 44
+1299
+2
+fig-bcjj 44
+bfgi-bcjj 44
+1300
+3
+eba-bdaa 44
+gcj-bdaa 44
+edh-bdaa 44
+1301
+2
+iji-bdab 44
+bdib-bdab 44
+1302
+2
+gba-bdac 44
+cgb-bdac 44
+1303
+3
+dja-bdad 44
+ch-bdad 44
+jdi-bdad 44
+1304
+2
+bbif-bdae 44
+bahi-bdae 44
+1305
+1
+ga-bdaf 44
+1306
+1
+badg-bdag 44
+1307
+2
+ibd-bdah 44
+beeg-bdah 44
+1308
+2
+bajh-bdai 44
+baij-bdai 44
+1309
+2
+je-bdaj 44
+hed-bdaj 44
+1310
+1
+bbch-bdba 44
+1311
+1
+jeh-bdbb 44
+1312
+1
+bcgf-bdbc 44
+1313
+1
+cdg-bdbd 11314
+1
+hh-bdbe 44
+1315
+1
+hf-bdbf 44
+1316
+3
+hdj-bdbg 44
+ddc-bdbg 44
+bfii-bdbg 44
+1317
+1
+jhg-bdbh 44
+1318
+2
+dbc-bdbi 44
+bfbc-bdbi 44
+1319
+4
+bbci-bdbj 44
+jfa-bdbj 44
+dhe-bdbj 44
+gid-bdbj 44
+1320
+1
+fej-bdca 44
+1321
+2
+cii-bdcb 44
+ibj-bdcb 44
+1322
+2
+iig-bdcc 44
+bdhf-bdcc 44
+1323
+2
+bbcb-bdcd 44
+bdgd-bdcd 44
+1324
+1
+jfc-bdce 44
+1325
+1
+faa-bdcf 44
+1326
+1
+bce-bdcg 44
+1327
+2
+hgc-bdch 44
+cac-bdch 44
+1328
+2
+efh-bdci 44
+ci-bdci 44
+1329
+2
+feb-bdcj 44
+jjc-bdcj 44
+1330
+2
+efh-bdda 44
+bebj-bdda 44
+1331
+1
+bbbg-bddb 44
+1332
+1
+dee-bddc 11333
+2
+bcbf-bddd 44
+daa-bddd 44
+1334
+2
+jif-bdde 44
+bid-bdde 44
+1335
+3
+gig-bddf 44
+bbbg-bddf 44
+bbcc-bddf 44
+1336
+1
+badj-bddg 44
+1337
+1
+bffa-bddh 44
+1338
+1
+fjg-bddi 44
+1339
+3
+bcaf-bddj 44
+bj-bddj 44
+bbbe-bddj 44
+1340
+1
+dc-bdea 44
+1341
+2
+jaf-bdeb 44
+bdif-bdeb 44
+1342
+4
+ida-bdec 44
+cca-bdec 44
+bfeg-bdec 44
+bfaf-bdec 44
+1343
+2
+bbbi-bded 44
+befd-bded 44
+1344
+3
+bcie-bdee 44
+gii-bdee 44
+cgc-bdee 44
+1345
+2
+hbe-bdef 44
+bbeg-bdef 44
+1346
+3
+hdh-bdeg 44
+iai-bdeg 44
+bgfb-bdeg 44
+1347
+2
+cfc-bdeh 44
+ecj-bdeh 44
+1348
+1
+bccd-bdei 44
+1349
+2
+jag-bdej 44
+bfaa-bdej 44
+1350
+3
+jjf-bdfa 44
+hdb-bdfa 44
+bje-bdfa 44
+1351
+2
+icf-bdfb 44
+ijg-bdfb 44
+1352
+1
+hdc-bdfc 44
+1353
+2
+bec-bdfd 44
+efb-bdfd 44
+1354
+2
+gdf-bdfe 44
+bfeg-bdfe 44
+1355
+1
+jga-bdff 44
+1356
+2
+bib-bdfg 44
+bdic-bdfg 44
+1357
+2
+bacc-bdfh 44
+bege-bdfh 44
+1358
+2
+jcf-bdfi 44
+becc-bdfi 44
+1359
+3
+bbjf-bdfj 44
+cdf-bdfj 44
+hae-bdfj 44
+1360
+4
+ihf-bdga 44
+begc-bdga 44
+ehh-bdga 44
+bafa-bdga 44
+1361
+3
+hig-bdgb 44
+fca-bdgb 44
+bead-bdgb 44
+1362
+2
+bcbd-bdgc 44
+eba-bdgc 44
+1363
+2
+gga-bdgd 44
+gbc-bdgd 44
+1364
+1
+baej-bdge 44
+1365
+3
+gdb-bdgf 44
+bfbe-bdgf 44
+fcc-bdgf 44
+1366
+1
+fbh-bdgg 44
+1367
+2
+ghj-bdgh 44
+eea-bdgh 44
+1368
+2
+bdj-bdgi 44
+bdjb-bdgi 44
+1369
+2
+hhh-bdgj 44
+bgdi-bdgj 44
+1370
+3
+gfj-bdha 44
+daj-bdha 44
+behi-bdha 44
+1371
+2
+hbh-bdhb 44
+haf-bdhb 44
+1372
+2
+jei-bdhc 44
+bahg-bdhc 44
+1373
+2
+bcbg-bdhd 44
+bae-bdhd 44
+1374
+4
+bagb-bdhe 44
+jjj-bdhe 44
+baia-bdhe 44
+ecc-bdhe 44
+1375
+2
+bcdh-bdhf 44
+bfae-bdhf 44
+1376
+1
+efd-bdhg 44
+1377
+1
+bdfd-bdhh 44
+1378
+3
+ihe-bdhi 44
+ccf-bdhi 44
+hb-bdhi 44
+1379
+1
+iah-bdhj 44
+1380
+2
+jgg-bdia 44
+bgff-bdia 44
+1381
+1
+bcfi-bdib 44
+1382
+1
+hhg-bdic 44
+1383
+1
+beh-bdid 44
+1384
+1
+igc-bdie 44
+1385
+2
+fgc-bdif 44
+f-bdif 44
+1386
+2
+bajc-bdig 44
+bdge-bdig 44
+1387
+1
+ijf-bdih 44
+1388
+2
+cch-bdii 44
+fbg-bdii 44
+1389
+1
+fbg-bdij 44
+1390
+2
+bbhb-bdja 44
+bdeb-bdja 44
+1391
+1
+bchd-bdjb 44
+1392
+2
+ifh-bdjc 44
+bfbb-bdjc 44
+1393
+1
+eca-bdjd 44
+1394
+3
+bacj-bdje 44
+cge-bdje 44
+bbjb-bdje 44
+1395
+1
+jig-bdjf 44
+1396
+1
+bdef-bdjg 44
+1397
+2
+baj-bdjh 44
+bfdf-bdjh 44
+1398
+2
+bej-bdji 44
+egb-bdji 44
+1399
+2
+cb-bdjj 44
+bccf-bdjj 44
+1400
+2
+bcfj-beaa 44
+eeb-beaa 44
+1401
+2
+baai-beab 44
+bdde-beab 44
+1402
+1
+cej-beac 11403
+2
+bib-bead 44
+bafg-bead 44
+1404
+1
+bdch-beae 44
+1405
+1
+geb-beaf 44
+1406
+1
+cci-beag 44
+1407
+3
+jie-beah 44
+bche-beah 44
+bgfc-beah 44
+1408
+1
+ida-beai 44
+1409
+2
+bcea-beaj 44
+dea-beaj 44
+1410
+3
+bbf-beba 44
+bbcb-beba 44
+bfg-beba 44
+1411
+1
+bgf-bebb 44
+1412
+1
+bbah-bebc 44
+1413
+2
+babc-bebd 44
+bejj-bebd 44
+1414
+1
+bccd-bebe 44
+1415
+2
+bbfj-bebf 44
+ghb-bebf 44
+1416
+1
+idj-bebg 44
+1417
+2
+bbgc-bebh 44
+dag-bebh 44
+1418
+1
+fad-bebi 44
+1419
+1
+bbec-bebj 44
+1420
+2
+ddg-beca 44
+jjf-beca 44
+1421
+3
+jed-becb 44
+bcg-becb 44
+bfbj-becb 44
+1422
+2
+bcc-becc 44
+haf-becc 44
+1423
+2
+fba-becd 44
+bbii-becd 44
+1424
+1
+fii-bece 44
+1425
+2
+hce-becf 44
+fed-becf 44
+1426
+1
+bagi-becg 44
+1427
+1
+dfj-bech 44
+1428
+1
+bbgj-beci 44
+1429
+2
+bdbi-becj 44
+hec-becj 44
+1430
+3
+bc-beda 44
+bfhh-beda 44
+cbd-beda 44
+1431
+1
+bebd-bedb 44
+1432
+2
+baic-bedc 44
+bfaj-bedc 44
+1433
+1
+ceg-bedd 44
+1434
+2
+bbda-bede 44
+hf-bede 44
+1435
+2
+ebh-bedf 44
+djf-bedf 44
+1436
+2
+gfg-bedg 44
+jbg-bedg 44
+1437
+2
+baha-bedh 44
+bgai-bedh 44
+1438
+2
+iib-bedi 44
+bfba-bedi 44
+1439
+1
+igd-bedj 44
+1440
+1
+eii-beea 11441
+2
+hcf-beeb 44
+bbee-beeb 44
+1442
+1
+jba-beec 44
+1443
+3
+dgj-beed 44
+becd-beed 44
+bfih-beed 44
+1444
+2
+hhc-beee 44
+eff-beee 44
+1445
+2
+hhf-beef 44
+icf-beef 44
+1446
+3
+he-beeg 44
+bdeb-beeg 44
+befc-beeg 44
+1447
+1
+bdgc-beeh 44
+1448
+1
+bdcg-beei 44
+1449
+1
+cge-beej 44
+1450
+2
+cbc-befa 44
+ebe-befa 44
+1451
+1
+babd-befb 44
+1452
+1
+bchf-befc 44
+1453
+3
+iia-befd 44
+chj-befd 44
+dci-befd 44
+1454
+1
+fif-befe 44
+1455
+2
+hc-beff 44
+fid-beff 44
+1456
+1
+bah-befg 44
+1457
+1
+heh-befh 44
+1458
+1
+bahf-befi 44
+1459
+1
+bdgc-befj 44
+1460
+1
+gca-bega 44
+1461
+1
+iie-begb 44
+1462
+2
+ghf-begc 44
+bgad-begc 44
+1463
+1
+bdgi-begd 44
+1464
+2
+babb-bege 44
+bdci-bege 44
+1465
+1
+dfc-begf 44
+1466
+2
+ifb-begg 44
+bfai-begg 44
+1467
+1
+eac-begh 44
+1468
+1
+cff-begi 44
+1469
+2
+bbfb-begj 44
+eef-begj 44
+1470
+3
+bebd-beha 44
+hcj-beha 44
+cji-beha 44
+1471
+1
+bfdh-behb 44
+1472
+1
+ifa-behc 44
+1473
+1
+eda-behd 44
+1474
+3
+baja-behe 44
+ihd-behe 44
+bgaa-behe 44
+1475
+1
+hdf-behf 44
+1476
+1
+iei-behg 44
+1477
+1
+bcgg-behh 44
+1478
+2
+bjh-behi 44
+bgde-behi 44
+1479
+3
+dcd-behj 44
+ihb-behj 44
+dbd-behj 44
+1480
+1
+ffd-beia 44
+1481
+1
+bdaj-beib 44
+1482
+3
+bbb-beic 44
+ec-beic 44
+dg-beic 44
+1483
+2
+bdje-beid 44
+iai-beid 44
+1484
+1
+cgc-beie 44
+1485
+3
+hfb-beif 44
+cii-beif 44
+gab-beif 44
+1486
+2
+bedd-beig 44
+baf-beig 44
+1487
+2
+dcc-beih 44
+ijd-beih 44
+1488
+1
+cbe-beii 44
+1489
+2
+che-beij 44
+bah-beij 44
+1490
+1
+cid-beja 44
+1491
+1
+bace-bejb 44
+1492
+1
+bbhj-bejc 11493
+1
+badc-bejd 44
+1494
+1
+baag-beje 44
+1495
+1
+jhi-bejf 44
+1496
+2
+cha-bejg 44
+bcag-bejg 44
+1497
+1
+bdaa-bejh 44
+1498
+2
+ifa-beji 44
+dcf-beji 44
+1499
+1
+cdg-bejj 44
+1500
+2
+bhf-bfaa 44
+ccd-bfaa 44
+1501
+1
+fbi-bfab 44
+1502
+1
+gfc-bfac 11503
+1
+jhc-bfad 44
+1504
+3
+ecc-bfae 44
+bfah-bfae 44
+bai-bfae 44
+1505
+2
+hbb-bfaf 44
+bedh-bfaf 44
+1506
+2
+jai-bfag 44
+bdad-bfag 44
+1507
+1
+jbf-bfah 44
+1508
+1
+bcaj-bfai 44
+1509
+1
+bcjd-bfaj 44
+1510
+1
+bdgg-bfba 44
+1511
+1
+hda-bfbb 44
+1512
+1
+ijd-bfbc 44
+1513
+3
+fia-bfbd 44
+bbjd-bfbd 44
+dcg-bfbd 44
+1514
+1
+behh-bfbe 44
+1515
+2
+efe-bfbf 44
+bdga-bfbf 44
+1516
+1
+hih-bfbg 44
+1517
+1
+f-bfbh 11518
+1
+jjc-bfbi 44
+1519
+1
+beif-bfbj 44
+1520
+1
+ghc-bfca 44
+1521
+3
+bbba-bfcb 44
+gfa-bfcb 44
+gaj-bfcb 44
+1522
+1
+gga-bfcc 44
+1523
+3
+ggc-bfcd 44
+bdbj-bfcd 44
+bcdc-bfcd 44
+1524
+1
+jh-bfce 44
+1525
+1
+bca-bfcf 44
+1526
+3
+cjc-bfcg 44
+bfgg-bfcg 44
+bgdj-bfcg 44
+1527
+1
+bafe-bfch 44
+1528
+1
+fjb-bfci 44
+1529
+2
+dif-bfcj 44
+gh-bfcj 44
+1530
+2
+baai-bfda 44
+bgce-bfda 44
+1531
+1
+iih-bfdb 44
+1532
+1
+bfbc-bfdc 44
+1533
+1
+bcgh-bfdd 44
+1534
+1
+jgf-bfde 44
+1535
+1
+ddf-bfdf 44
+1536
+1
+bdfi-bfdg 44
+1537
+1
+bdec-bfdh 44
+1538
+2
+ihc-bfdi 44
+fgc-bfdi 44
+1539
+2
+bddd-bfdj 44
+dgg-bfdj 44
+1540
+1
+jdg-bfea 44
+1541
+1
+ggf-bfeb 44
+1542
+2
+bdge-bfec 44
+edg-bfec 44
+1543
+2
+iia-bfed 44
+iea-bfed 44
+1544
+2
+dae-bfee 44
+fhi-bfee 44
+1545
+4
+ied-bfef 44
+bgaf-bfef 44
+faa-bfef 44
+bgda-bfef 44
+1546
+1
+dfb-bfeg 44
+1547
+1
+fdc-bfeh 44
+1548
+1
+cbf-bfei 44
+1549
+1
+bdia-bfej 44
+1550
+1
+iab-bffa 44
+1551
+1
+bda-bffb 44
+1552
+1
+iai-bffc 44
+1553
+1
+egi-bffd 44
+1554
+1
+jai-bffe 44
+1555
+1
+becg-bfff 44
+1556
+1
+gci-bffg 44
+1557
+1
+ghi-bffh 44
+1558
+1
+ed-bffi 44
+1559
+1
+eda-bffj 44
+1560
+2
+dcg-bfga 44
+bfj-bfga 44
+1561
+2
+beif-bfgb 44
+bcfj-bfgb 44
+1562
+1
+bdac-bfgc 44
+1563
+1
+ihj-bfgd 44
+1564
+1
+chj-bfge 44
+1565
+2
+eig-bfgf 44
+bgga-bfgf 44
+1566
+1
+ec-bfgg 44
+1567
+1
+bbie-bfgh 44
+1568
+3
+fea-bfgi 44
+bgee-bfgi 44
+bgej-bfgi 44
+1569
+1
+bdd-bfgj 11570
+1
+cga-bfha 44
+1571
+1
+bhg-bfhb 44
+1572
+1
+dgd-bfhc 44
+1573
+1
+bdgb-bfhd 44
+1574
+1
+bfi-bfhe 44
+1575
+2
+jjj-bfhf 44
+ded-bfhf 44
+1576
+2
+ibi-bfhg 44
+bfhi-bfhg 44
+1577
+1
+ibh-bfhh 44
+1578
+1
+ice-bfhi 44
+1579
+2
+gih-bfhj 44
+bejj-bfhj 44
+1580
+1
+df-bfia 44
+1581
+1
+bdca-bfib 44
+1582
+2
+igc-bfic 44
+bgfg-bfic 44
+1583
+1
+hfa-bfid 44
+1584
+1
+ceh-bfie 44
+1585
+2
+dfi-bfif 44
+caa-bfif 44
+1586
+1
+bceb-bfig 11587
+1
+cif-bfih 44
+1588
+2
+edc-bfii 44
+hjg-bfii 44
+1589
+1
+gih-bfij 44
+1590
+1
+bie-bfja 44
+1591
+1
+icj-bfjb 44
+1592
+1
+bej-bfjc 44
+1593
+1
+bajd-bfjd 44
+1594
+1
+bfba-bfje 44
+1595
+1
+cdg-bfjf 44
+1596
+1
+bdej-bfjg 44
+1597
+1
+bcga-bfjh 44
+1598
+1
+bebd-bfji 44
+1599
+1
+hhg-bfjj 44
+1600
+1
+bcdd-bgaa 44
+1601
+1
+fga-bgab 44
+1602
+1
+babg-bgac 44
+1603
+1
+bdba-bgad 44
+1604
+1
+bajd-bgae 44
+1605
+1
+beab-bgaf 44
+1606
+1
+bed-bgag 44
+1607
+1
+bdhi-bgah 44
+1608
+1
+baji-bgai 44
+1609
+1
+egb-bgaj 44
+1610
+1
+ddd-bgba 44
+1611
+1
+dib-bgbb 44
+1612
+1
+bba-bgbc 44
+1613
+2
+bfb-bgbd 44
+bfje-bgbd 44
+1614
+1
+bfhe-bgbe 44
+1615
+1
+bbfa-bgbf 44
+1616
+1
+dff-bgbg 44
+1617
+2
+ece-bgbh 44
+bgfh-bgbh 44
+1618
+1
+bfjc-bgbi 44
+1619
+1
+cbj-bgbj 44
+1620
+1
+hjh-bgca 44
+1621
+1
+icd-bgcb 44
+1622
+2
+dga-bgcc 44
+bdbe-bgcc 44
+1623
+1
+djf-bgcd 11624
+1
+bacd-bgce 44
+1625
+1
+cib-bgcf 44
+1626
+1
+cba-bgcg 44
+1627
+1
+cga-bgch 44
+1628
+2
+hje-bgci 44
+bda-bgci 44
+1629
+1
+beeg-bgcj 44
+1630
+1
+bcai-bgda 44
+1631
+1
+jdd-bgdb 44
+1632
+1
+gbb-bgdc 44
+1633
+3
+bhf-bgdd 44
+ede-bgdd 44
+bffd-bgdd 44
+1634
+1
+beic-bgde 44
+1635
+1
+bbia-bgdf 44
+1636
+1
+baf-bgdg 44
+1637
+1
+hhh-bgdh 44
+1638
+2
+jdi-bgdi 44
+bach-bgdi 44
+1639
+1
+jdb-bgdj 44
+1640
+1
+bcia-bgea 44
+1641
+1
+ega-bgeb 44
+1642
+2
+bacg-bgec 44
+djd-bgec 44
+1643
+1
+behi-bged 44
+1644
+1
+hjf-bgee 44
+1645
+1
+fed-bgef 44
+1646
+1
+baca-bgeg 44
+1647
+1
+bece-bgeh 44
+1648
+1
+bgca-bgei 44
+1649
+1
+jej-bgej 44
+1650
+1
+bddj-bgfa 44
+1651
+1
+bhh-bgfb 44
+1652
+1
+bfjg-bgfc 44
+1653
+2
+gif-bgfd 44
+ddb-bgfd 44
+1654
+1
+bfcf-bgfe 44
+1655
+1
+bcgh-bgff 44
+1656
+1
+bce-bgfg 44
+1657
+1
+bgbi-bgfh 44
+1658
+1
+bie-bgfi 44
+1659
+1
+eef-bgfj 44
+1660
+1
+bdhi-bgga 44
+1661
+1
+bdhg-bggb 44

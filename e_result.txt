@@ -1,0 +1,1965 @@
+500
+0
+1
+eji-a 26
+1
+2
+a-b 26
+ejj-b 26
+2
+1
+b-c 26
+3
+2
+c-d 26
+ejj-d 26
+4
+1
+d-e 26
+5
+2
+e-f 26
+ejj-f 26
+6
+1
+f-g 26
+7
+2
+g-h 26
+ejj-h 26
+8
+1
+h-i 26
+9
+2
+i-j 26
+ejj-j 26
+10
+1
+j-ba 26
+11
+2
+ba-bb 26
+ejj-bb 26
+12
+1
+bb-bc 26
+13
+2
+bc-bd 26
+ejj-bd 26
+14
+1
+bd-be 26
+15
+2
+be-bf 26
+ejj-bf 26
+16
+1
+bf-bg 26
+17
+2
+bg-bh 26
+ejj-bh 26
+18
+1
+bh-bi 26
+19
+2
+bi-bj 26
+ejj-bj 26
+20
+1
+bj-ca 26
+21
+2
+ca-cb 26
+ejj-cb 26
+22
+1
+cb-cc 26
+23
+2
+cc-cd 26
+ejj-cd 26
+24
+1
+cd-ce 26
+25
+2
+ce-cf 26
+ejj-cf 26
+26
+1
+cf-cg 26
+27
+2
+cg-ch 26
+ejj-ch 26
+28
+1
+ch-ci 26
+29
+2
+ci-cj 26
+ejj-cj 26
+30
+1
+cj-da 26
+31
+2
+da-db 26
+ejj-db 26
+32
+1
+db-dc 26
+33
+2
+dc-dd 26
+ejj-dd 26
+34
+1
+dd-de 26
+35
+2
+de-df 26
+ejj-df 26
+36
+1
+df-dg 26
+37
+2
+dg-dh 26
+ejj-dh 26
+38
+1
+dh-di 26
+39
+2
+di-dj 26
+ejj-dj 26
+40
+1
+dj-ea 26
+41
+2
+ea-eb 26
+ejj-eb 26
+42
+1
+eb-ec 26
+43
+2
+ec-ed 26
+ejj-ed 26
+44
+1
+ed-ee 26
+45
+2
+ee-ef 26
+ejj-ef 26
+46
+1
+ef-eg 26
+47
+2
+eg-eh 26
+ejj-eh 26
+48
+1
+eh-ei 26
+49
+2
+ei-ej 26
+ejj-ej 26
+50
+1
+ej-fa 26
+51
+2
+fa-fb 26
+ejj-fb 26
+52
+1
+fb-fc 26
+53
+1
+fc-fd 26
+54
+1
+fd-fe 26
+55
+2
+fe-ff 26
+ejj-ff 26
+56
+1
+ff-fg 26
+57
+2
+fg-fh 26
+ejj-fh 26
+58
+1
+fh-fi 26
+59
+2
+fi-fj 26
+ejj-fj 26
+60
+1
+fj-ga 26
+61
+2
+ga-gb 26
+ejj-gb 26
+62
+1
+gb-gc 26
+63
+2
+gc-gd 26
+ejj-gd 26
+64
+1
+gd-ge 26
+65
+2
+ge-gf 26
+ejj-gf 26
+66
+1
+gf-gg 26
+67
+2
+gg-gh 26
+ejj-gh 26
+68
+1
+gh-gi 26
+69
+2
+gi-gj 26
+ejj-gj 26
+70
+1
+gj-ha 26
+71
+2
+ha-hb 26
+ejj-hb 26
+72
+1
+hb-hc 26
+73
+2
+hc-hd 26
+ejj-hd 26
+74
+1
+hd-he 26
+75
+2
+he-hf 26
+ejj-hf 26
+76
+1
+hf-hg 26
+77
+2
+hg-hh 26
+ejj-hh 26
+78
+1
+hh-hi 26
+79
+2
+hi-hj 26
+ejj-hj 26
+80
+1
+hj-ia 26
+81
+2
+ia-ib 26
+ejj-ib 26
+82
+1
+ib-ic 26
+83
+2
+ic-id 26
+ejj-id 26
+84
+1
+id-ie 26
+85
+2
+ie-if 26
+ejj-if 26
+86
+1
+if-ig 26
+87
+2
+ig-ih 26
+ejj-ih 26
+88
+1
+ih-ii 26
+89
+2
+ii-ij 26
+ejj-ij 26
+90
+1
+ij-ja 26
+91
+2
+ja-jb 26
+ejj-jb 26
+92
+1
+jb-jc 26
+93
+2
+jc-jd 26
+ejj-jd 26
+94
+1
+jd-je 26
+95
+2
+je-jf 26
+ejj-jf 26
+96
+1
+jf-jg 26
+97
+2
+jg-jh 26
+ejj-jh 26
+98
+1
+jh-ji 26
+99
+2
+ji-jj 26
+ejj-jj 26
+100
+1
+jj-baa 26
+101
+2
+baa-bab 26
+ejj-bab 26
+102
+1
+bab-bac 26
+103
+2
+bac-bad 26
+ejj-bad 26
+104
+1
+bad-bae 26
+105
+2
+bae-baf 26
+ejj-baf 26
+106
+1
+baf-bag 26
+107
+2
+bag-bah 26
+ejj-bah 26
+108
+1
+bah-bai 26
+109
+2
+bai-baj 26
+ejj-baj 26
+110
+1
+baj-bba 26
+111
+2
+bba-bbb 26
+ejj-bbb 26
+112
+1
+bbb-bbc 26
+113
+2
+bbc-bbd 26
+ejj-bbd 26
+114
+1
+bbd-bbe 26
+115
+2
+bbe-bbf 26
+ejj-bbf 26
+116
+1
+bbf-bbg 26
+117
+2
+bbg-bbh 26
+ejj-bbh 26
+118
+1
+bbh-bbi 26
+119
+2
+bbi-bbj 26
+ejj-bbj 26
+120
+1
+bbj-bca 26
+121
+2
+bca-bcb 26
+ejj-bcb 26
+122
+1
+bcb-bcc 26
+123
+2
+bcc-bcd 26
+ejj-bcd 26
+124
+1
+bcd-bce 26
+125
+2
+bce-bcf 26
+ejj-bcf 26
+126
+1
+bcf-bcg 26
+127
+2
+bcg-bch 26
+ejj-bch 26
+128
+1
+bch-bci 26
+129
+2
+bci-bcj 26
+ejj-bcj 26
+130
+1
+bcj-bda 26
+131
+2
+bda-bdb 26
+ejj-bdb 26
+132
+1
+bdb-bdc 26
+133
+2
+bdc-bdd 26
+ejj-bdd 26
+134
+1
+bdd-bde 26
+135
+2
+bde-bdf 26
+ejj-bdf 26
+136
+1
+bdf-bdg 26
+137
+2
+bdg-bdh 26
+ejj-bdh 26
+138
+1
+bdh-bdi 26
+139
+2
+bdi-bdj 26
+ejj-bdj 26
+140
+1
+bdj-bea 26
+141
+2
+bea-beb 26
+ejj-beb 26
+142
+1
+beb-bec 26
+143
+2
+bec-bed 26
+ejj-bed 26
+144
+1
+bed-bee 26
+145
+2
+bee-bef 26
+ejj-bef 26
+146
+1
+bef-beg 26
+147
+2
+beg-beh 26
+ejj-beh 26
+148
+1
+beh-bei 26
+149
+2
+bei-bej 26
+ejj-bej 26
+150
+1
+bej-bfa 26
+151
+2
+bfa-bfb 26
+ejj-bfb 26
+152
+1
+bfb-bfc 26
+153
+2
+bfc-bfd 26
+ejj-bfd 26
+154
+1
+bfd-bfe 26
+155
+2
+bfe-bff 26
+ejj-bff 26
+156
+1
+bff-bfg 26
+157
+2
+bfg-bfh 26
+ejj-bfh 26
+158
+1
+bfh-bfi 26
+159
+2
+bfi-bfj 26
+ejj-bfj 26
+160
+1
+bfj-bga 26
+161
+1
+bga-bgb 26
+162
+1
+bgb-bgc 26
+163
+2
+bgc-bgd 26
+ejj-bgd 26
+164
+1
+bgd-bge 26
+165
+2
+bge-bgf 26
+ejj-bgf 26
+166
+1
+bgf-bgg 26
+167
+2
+bgg-bgh 26
+ejj-bgh 26
+168
+1
+bgh-bgi 26
+169
+2
+bgi-bgj 26
+ejj-bgj 26
+170
+1
+bgj-bha 26
+171
+2
+bha-bhb 26
+ejj-bhb 26
+172
+1
+bhb-bhc 26
+173
+2
+bhc-bhd 26
+ejj-bhd 26
+174
+1
+bhd-bhe 26
+175
+2
+bhe-bhf 26
+ejj-bhf 26
+176
+1
+bhf-bhg 26
+177
+2
+bhg-bhh 26
+ejj-bhh 26
+178
+1
+bhh-bhi 26
+179
+2
+bhi-bhj 26
+ejj-bhj 26
+180
+1
+bhj-bia 26
+181
+2
+bia-bib 26
+ejj-bib 26
+182
+1
+bib-bic 26
+183
+2
+bic-bid 26
+ejj-bid 26
+184
+1
+bid-bie 26
+185
+2
+bie-bif 26
+ejj-bif 26
+186
+1
+bif-big 26
+187
+2
+big-bih 26
+ejj-bih 26
+188
+1
+bih-bii 26
+189
+2
+bii-bij 26
+ejj-bij 26
+190
+1
+bij-bja 26
+191
+2
+bja-bjb 26
+ejj-bjb 26
+192
+1
+bjb-bjc 26
+193
+2
+bjc-bjd 26
+ejj-bjd 26
+194
+1
+bjd-bje 26
+195
+2
+bje-bjf 26
+ejj-bjf 26
+196
+1
+bjf-bjg 26
+197
+2
+bjg-bjh 26
+ejj-bjh 26
+198
+1
+bjh-bji 26
+199
+2
+bji-bjj 26
+ejj-bjj 26
+200
+1
+bjj-caa 26
+201
+2
+caa-cab 26
+ejj-cab 26
+202
+1
+cab-cac 26
+203
+2
+cac-cad 26
+ejj-cad 26
+204
+1
+cad-cae 26
+205
+2
+cae-caf 26
+ejj-caf 26
+206
+1
+caf-cag 26
+207
+2
+cag-cah 26
+ejj-cah 26
+208
+1
+cah-cai 26
+209
+2
+cai-caj 26
+ejj-caj 26
+210
+1
+caj-cba 26
+211
+2
+cba-cbb 26
+ejj-cbb 26
+212
+1
+cbb-cbc 26
+213
+2
+cbc-cbd 26
+ejj-cbd 26
+214
+1
+cbd-cbe 26
+215
+2
+cbe-cbf 26
+ejj-cbf 26
+216
+1
+cbf-cbg 26
+217
+2
+cbg-cbh 26
+ejj-cbh 26
+218
+1
+cbh-cbi 26
+219
+2
+cbi-cbj 26
+ejj-cbj 26
+220
+1
+cbj-cca 26
+221
+2
+cca-ccb 26
+ejj-ccb 26
+222
+1
+ccb-ccc 26
+223
+2
+ccc-ccd 26
+ejj-ccd 26
+224
+1
+ccd-cce 26
+225
+2
+cce-ccf 26
+ejj-ccf 26
+226
+1
+ccf-ccg 26
+227
+2
+ccg-cch 26
+ejj-cch 26
+228
+1
+cch-cci 26
+229
+2
+cci-ccj 26
+ejj-ccj 26
+230
+1
+ccj-cda 26
+231
+2
+cda-cdb 26
+ejj-cdb 26
+232
+1
+cdb-cdc 26
+233
+2
+cdc-cdd 26
+ejj-cdd 26
+234
+1
+cdd-cde 26
+235
+2
+cde-cdf 26
+ejj-cdf 26
+236
+1
+cdf-cdg 26
+237
+2
+cdg-cdh 26
+ejj-cdh 26
+238
+1
+cdh-cdi 26
+239
+2
+cdi-cdj 26
+ejj-cdj 26
+240
+1
+cdj-cea 26
+241
+2
+cea-ceb 26
+ejj-ceb 26
+242
+1
+ceb-cec 26
+243
+2
+cec-ced 26
+ejj-ced 26
+244
+1
+ced-cee 26
+245
+2
+cee-cef 26
+ejj-cef 26
+246
+1
+cef-ceg 26
+247
+2
+ceg-ceh 26
+ejj-ceh 26
+248
+1
+ceh-cei 26
+249
+1
+cei-cej 26
+250
+1
+cej-cfa 26
+251
+2
+cfa-cfb 26
+ejj-cfb 26
+252
+1
+cfb-cfc 26
+253
+2
+cfc-cfd 26
+ejj-cfd 26
+254
+1
+cfd-cfe 26
+255
+2
+cfe-cff 26
+ejj-cff 26
+256
+1
+cff-cfg 26
+257
+2
+cfg-cfh 26
+ejj-cfh 26
+258
+1
+cfh-cfi 26
+259
+2
+cfi-cfj 26
+ejj-cfj 26
+260
+1
+cfj-cga 26
+261
+2
+cga-cgb 26
+ejj-cgb 26
+262
+1
+cgb-cgc 26
+263
+2
+cgc-cgd 26
+ejj-cgd 26
+264
+1
+cgd-cge 26
+265
+2
+cge-cgf 26
+ejj-cgf 26
+266
+1
+cgf-cgg 26
+267
+2
+cgg-cgh 26
+ejj-cgh 26
+268
+1
+cgh-cgi 26
+269
+1
+cgi-cgj 26
+270
+1
+cgj-cha 26
+271
+2
+cha-chb 26
+ejj-chb 26
+272
+1
+chb-chc 26
+273
+2
+chc-chd 26
+ejj-chd 26
+274
+1
+chd-che 26
+275
+2
+che-chf 26
+ejj-chf 26
+276
+1
+chf-chg 26
+277
+2
+chg-chh 26
+ejj-chh 26
+278
+1
+chh-chi 26
+279
+2
+chi-chj 26
+ejj-chj 26
+280
+1
+chj-cia 26
+281
+2
+cia-cib 26
+ejj-cib 26
+282
+1
+cib-cic 26
+283
+2
+cic-cid 26
+ejj-cid 26
+284
+1
+cid-cie 26
+285
+2
+cie-cif 26
+ejj-cif 26
+286
+1
+cif-cig 26
+287
+2
+cig-cih 26
+ejj-cih 26
+288
+1
+cih-cii 26
+289
+1
+cii-cij 26
+290
+1
+cij-cja 26
+291
+2
+cja-cjb 26
+ejj-cjb 26
+292
+1
+cjb-cjc 26
+293
+2
+cjc-cjd 26
+ejj-cjd 26
+294
+1
+cjd-cje 26
+295
+2
+cje-cjf 26
+ejj-cjf 26
+296
+1
+cjf-cjg 26
+297
+2
+cjg-cjh 26
+ejj-cjh 26
+298
+1
+cjh-cji 26
+299
+2
+cji-cjj 26
+ejj-cjj 26
+300
+1
+cjj-daa 26
+301
+2
+daa-dab 26
+ejj-dab 26
+302
+1
+dab-dac 26
+303
+2
+dac-dad 26
+ejj-dad 26
+304
+1
+dad-dae 26
+305
+2
+dae-daf 26
+ejj-daf 26
+306
+1
+daf-dag 26
+307
+2
+dag-dah 26
+ejj-dah 26
+308
+1
+dah-dai 26
+309
+2
+dai-daj 26
+ejj-daj 26
+310
+1
+daj-dba 26
+311
+2
+dba-dbb 26
+ejj-dbb 26
+312
+1
+dbb-dbc 26
+313
+2
+dbc-dbd 26
+ejj-dbd 26
+314
+1
+dbd-dbe 26
+315
+2
+dbe-dbf 26
+ejj-dbf 26
+316
+1
+dbf-dbg 26
+317
+2
+dbg-dbh 26
+ejj-dbh 26
+318
+1
+dbh-dbi 26
+319
+2
+dbi-dbj 26
+ejj-dbj 26
+320
+1
+dbj-dca 26
+321
+2
+dca-dcb 26
+ejj-dcb 26
+322
+1
+dcb-dcc 26
+323
+2
+dcc-dcd 26
+ejj-dcd 26
+324
+1
+dcd-dce 26
+325
+2
+dce-dcf 26
+ejj-dcf 26
+326
+1
+dcf-dcg 26
+327
+2
+dcg-dch 26
+ejj-dch 26
+328
+1
+dch-dci 26
+329
+2
+dci-dcj 26
+ejj-dcj 26
+330
+1
+dcj-dda 26
+331
+2
+dda-ddb 26
+ejj-ddb 26
+332
+1
+ddb-ddc 26
+333
+2
+ddc-ddd 26
+ejj-ddd 26
+334
+1
+ddd-dde 26
+335
+2
+dde-ddf 26
+ejj-ddf 26
+336
+1
+ddf-ddg 26
+337
+2
+ddg-ddh 26
+ejj-ddh 26
+338
+1
+ddh-ddi 26
+339
+2
+ddi-ddj 26
+ejj-ddj 26
+340
+1
+ddj-dea 26
+341
+2
+dea-deb 26
+ejj-deb 26
+342
+1
+deb-dec 26
+343
+2
+dec-ded 26
+ejj-ded 26
+344
+1
+ded-dee 26
+345
+2
+dee-def 26
+ejj-def 26
+346
+1
+def-deg 26
+347
+2
+deg-deh 26
+ejj-deh 26
+348
+1
+deh-dei 26
+349
+2
+dei-dej 26
+ejj-dej 26
+350
+1
+dej-dfa 26
+351
+1
+dfa-dfb 26
+352
+1
+dfb-dfc 26
+353
+2
+dfc-dfd 26
+ejj-dfd 26
+354
+1
+dfd-dfe 26
+355
+2
+dfe-dff 26
+ejj-dff 26
+356
+1
+dff-dfg 26
+357
+2
+dfg-dfh 26
+ejj-dfh 26
+358
+1
+dfh-dfi 26
+359
+2
+dfi-dfj 26
+ejj-dfj 26
+360
+1
+dfj-dga 26
+361
+2
+dga-dgb 26
+ejj-dgb 26
+362
+1
+dgb-dgc 26
+363
+2
+dgc-dgd 26
+ejj-dgd 26
+364
+1
+dgd-dge 26
+365
+2
+dge-dgf 26
+ejj-dgf 26
+366
+1
+dgf-dgg 26
+367
+2
+dgg-dgh 26
+ejj-dgh 26
+368
+1
+dgh-dgi 26
+369
+2
+dgi-dgj 26
+ejj-dgj 26
+370
+1
+dgj-dha 26
+371
+2
+dha-dhb 26
+ejj-dhb 26
+372
+1
+dhb-dhc 26
+373
+2
+dhc-dhd 26
+ejj-dhd 26
+374
+1
+dhd-dhe 26
+375
+2
+dhe-dhf 26
+ejj-dhf 26
+376
+1
+dhf-dhg 26
+377
+2
+dhg-dhh 26
+ejj-dhh 26
+378
+1
+dhh-dhi 26
+379
+2
+dhi-dhj 26
+ejj-dhj 26
+380
+1
+dhj-dia 26
+381
+2
+dia-dib 26
+ejj-dib 26
+382
+1
+dib-dic 26
+383
+2
+dic-did 26
+ejj-did 26
+384
+1
+did-die 26
+385
+2
+die-dif 26
+ejj-dif 26
+386
+1
+dif-dig 26
+387
+2
+dig-dih 26
+ejj-dih 26
+388
+1
+dih-dii 26
+389
+2
+dii-dij 26
+ejj-dij 26
+390
+1
+dij-dja 26
+391
+2
+dja-djb 26
+ejj-djb 26
+392
+1
+djb-djc 26
+393
+2
+djc-djd 26
+ejj-djd 26
+394
+1
+djd-dje 26
+395
+1
+dje-djf 26
+396
+1
+djf-djg 26
+397
+2
+djg-djh 26
+ejj-djh 26
+398
+1
+djh-dji 26
+399
+2
+dji-djj 26
+ejj-djj 26
+400
+1
+djj-eaa 26
+401
+2
+eaa-eab 26
+ejj-eab 26
+402
+1
+eab-eac 26
+403
+2
+eac-ead 26
+ejj-ead 26
+404
+1
+ead-eae 26
+405
+2
+eae-eaf 26
+ejj-eaf 26
+406
+1
+eaf-eag 26
+407
+2
+eag-eah 26
+ejj-eah 26
+408
+1
+eah-eai 26
+409
+2
+eai-eaj 26
+ejj-eaj 26
+410
+1
+eaj-eba 26
+411
+2
+eba-ebb 26
+ejj-ebb 26
+412
+1
+ebb-ebc 26
+413
+2
+ebc-ebd 26
+ejj-ebd 26
+414
+1
+ebd-ebe 26
+415
+2
+ebe-ebf 26
+ejj-ebf 26
+416
+1
+ebf-ebg 26
+417
+2
+ebg-ebh 26
+ejj-ebh 26
+418
+1
+ebh-ebi 26
+419
+2
+ebi-ebj 26
+ejj-ebj 26
+420
+1
+ebj-eca 26
+421
+2
+eca-ecb 26
+ejj-ecb 26
+422
+1
+ecb-ecc 26
+423
+2
+ecc-ecd 26
+ejj-ecd 26
+424
+1
+ecd-ece 26
+425
+2
+ece-ecf 26
+ejj-ecf 26
+426
+1
+ecf-ecg 26
+427
+2
+ecg-ech 26
+ejj-ech 26
+428
+1
+ech-eci 26
+429
+2
+eci-ecj 26
+ejj-ecj 26
+430
+1
+ecj-eda 26
+431
+2
+eda-edb 26
+ejj-edb 26
+432
+1
+edb-edc 26
+433
+2
+edc-edd 26
+ejj-edd 26
+434
+1
+edd-ede 26
+435
+2
+ede-edf 26
+ejj-edf 26
+436
+1
+edf-edg 26
+437
+2
+edg-edh 26
+ejj-edh 26
+438
+1
+edh-edi 26
+439
+2
+edi-edj 26
+ejj-edj 26
+440
+1
+edj-eea 26
+441
+2
+eea-eeb 26
+ejj-eeb 26
+442
+1
+eeb-eec 26
+443
+2
+eec-eed 26
+ejj-eed 26
+444
+1
+eed-eee 26
+445
+2
+eee-eef 26
+ejj-eef 26
+446
+1
+eef-eeg 26
+447
+2
+eeg-eeh 26
+ejj-eeh 26
+448
+1
+eeh-eei 26
+449
+1
+eei-eej 26
+450
+1
+eej-efa 26
+451
+2
+efa-efb 26
+ejj-efb 26
+452
+1
+efb-efc 26
+453
+2
+efc-efd 26
+ejj-efd 26
+454
+1
+efd-efe 26
+455
+2
+efe-eff 26
+ejj-eff 26
+456
+1
+eff-efg 26
+457
+2
+efg-efh 26
+ejj-efh 26
+458
+1
+efh-efi 26
+459
+2
+efi-efj 26
+ejj-efj 26
+460
+1
+efj-ega 26
+461
+2
+ega-egb 26
+ejj-egb 26
+462
+1
+egb-egc 26
+463
+2
+egc-egd 26
+ejj-egd 26
+464
+1
+egd-ege 26
+465
+2
+ege-egf 26
+ejj-egf 26
+466
+1
+egf-egg 26
+467
+2
+egg-egh 26
+ejj-egh 26
+468
+1
+egh-egi 26
+469
+2
+egi-egj 26
+ejj-egj 26
+470
+1
+egj-eha 26
+471
+2
+eha-ehb 26
+ejj-ehb 26
+472
+1
+ehb-ehc 26
+473
+2
+ehc-ehd 26
+ejj-ehd 26
+474
+1
+ehd-ehe 26
+475
+2
+ehe-ehf 26
+ejj-ehf 26
+476
+1
+ehf-ehg 26
+477
+2
+ehg-ehh 26
+ejj-ehh 26
+478
+1
+ehh-ehi 26
+479
+2
+ehi-ehj 26
+ejj-ehj 26
+480
+1
+ehj-eia 26
+481
+2
+eia-eib 26
+ejj-eib 26
+482
+1
+eib-eic 26
+483
+2
+eic-eid 26
+ejj-eid 26
+484
+1
+eid-eie 26
+485
+2
+eie-eif 26
+ejj-eif 26
+486
+1
+eif-eig 26
+487
+1
+eig-eih 26
+488
+1
+eih-eii 26
+489
+2
+eii-eij 26
+ejj-eij 26
+490
+1
+eij-eja 26
+491
+2
+eja-ejb 26
+ejj-ejb 26
+492
+1
+ejb-ejc 26
+493
+2
+ejc-ejd 26
+ejj-ejd 26
+494
+1
+ejd-eje 26
+495
+2
+eje-ejf 26
+ejj-ejf 26
+496
+1
+ejf-ejg 26
+497
+2
+ejg-ejh 26
+ejj-ejh 26
+498
+1
+ejh-eji 26
+499
+225
+a-ejj 26
+e-ejj 26
+g-ejj 26
+i-ejj 26
+ba-ejj 26
+bc-ejj 26
+be-ejj 26
+bi-ejj 26
+ca-ejj 26
+cc-ejj 26
+ce-ejj 26
+cg-ejj 26
+ci-ejj 26
+dc-ejj 26
+de-ejj 26
+dg-ejj 26
+di-ejj 26
+ec-ejj 26
+ee-ejj 26
+eg-ejj 26
+fa-ejj 26
+fc-ejj 26
+fe-ejj 26
+fg-ejj 26
+fi-ejj 26
+ga-ejj 26
+gc-ejj 26
+ge-ejj 26
+gg-ejj 26
+gi-ejj 26
+ha-ejj 26
+hc-ejj 26
+he-ejj 26
+hg-ejj 26
+hi-ejj 26
+ia-ejj 26
+ic-ejj 26
+ie-ejj 26
+ig-ejj 26
+ja-ejj 26
+jc-ejj 26
+je-ejj 26
+jg-ejj 26
+ji-ejj 26
+baa-ejj 26
+bac-ejj 26
+bae-ejj 26
+bag-ejj 26
+bai-ejj 26
+bba-ejj 26
+bbc-ejj 26
+bbe-ejj 26
+bbg-ejj 26
+bcc-ejj 26
+bcg-ejj 26
+bci-ejj 26
+bda-ejj 26
+bdc-ejj 26
+bde-ejj 26
+bdg-ejj 26
+bdi-ejj 26
+bea-ejj 26
+bec-ejj 26
+bee-ejj 26
+beg-ejj 26
+bei-ejj 26
+bfa-ejj 26
+bfc-ejj 26
+bfe-ejj 26
+bfg-ejj 26
+bfi-ejj 26
+bga-ejj 26
+bgc-ejj 26
+bge-ejj 26
+bgg-ejj 26
+bgi-ejj 26
+bha-ejj 26
+bhc-ejj 26
+bhe-ejj 26
+bhg-ejj 26
+bhi-ejj 26
+bia-ejj 26
+bic-ejj 26
+bie-ejj 26
+big-ejj 26
+bii-ejj 26
+bja-ejj 26
+bjc-ejj 26
+bje-ejj 26
+bjg-ejj 26
+caa-ejj 26
+cac-ejj 26
+cae-ejj 26
+cbc-ejj 26
+cbe-ejj 26
+cbg-ejj 26
+cca-ejj 26
+ccc-ejj 26
+cce-ejj 26
+ccg-ejj 26
+cci-ejj 26
+cda-ejj 26
+cdc-ejj 26
+cde-ejj 26
+cdg-ejj 26
+cdi-ejj 26
+cea-ejj 26
+cec-ejj 26
+cee-ejj 26
+ceg-ejj 26
+cei-ejj 26
+cfa-ejj 26
+cfc-ejj 26
+cfg-ejj 26
+cfi-ejj 26
+cgc-ejj 26
+cge-ejj 26
+cgg-ejj 26
+cgi-ejj 26
+cha-ejj 26
+chc-ejj 26
+che-ejj 26
+chg-ejj 26
+chi-ejj 26
+cia-ejj 26
+cic-ejj 26
+cie-ejj 26
+cig-ejj 26
+cii-ejj 26
+cja-ejj 26
+cjc-ejj 26
+cje-ejj 26
+cjg-ejj 26
+cji-ejj 26
+daa-ejj 26
+dac-ejj 26
+dae-ejj 26
+dag-ejj 26
+dai-ejj 26
+dba-ejj 26
+dbg-ejj 26
+dca-ejj 26
+dcc-ejj 26
+dce-ejj 26
+dcg-ejj 26
+dci-ejj 26
+dda-ejj 26
+ddc-ejj 26
+dde-ejj 26
+ddg-ejj 26
+ddi-ejj 26
+dea-ejj 26
+dec-ejj 26
+dee-ejj 26
+deg-ejj 26
+dei-ejj 26
+dfc-ejj 26
+dfg-ejj 26
+dfi-ejj 26
+dga-ejj 26
+dge-ejj 26
+dgi-ejj 26
+dha-ejj 26
+dhc-ejj 26
+dhe-ejj 26
+dhg-ejj 26
+dhi-ejj 26
+dia-ejj 26
+dic-ejj 26
+die-ejj 26
+dig-ejj 26
+dii-ejj 26
+dja-ejj 26
+djc-ejj 26
+dje-ejj 26
+djg-ejj 26
+dji-ejj 26
+eaa-ejj 26
+eac-ejj 26
+eae-ejj 26
+eag-ejj 26
+eai-ejj 26
+eba-ejj 26
+ebc-ejj 26
+ebe-ejj 26
+ebg-ejj 26
+ebi-ejj 26
+eca-ejj 26
+ecc-ejj 26
+ece-ejj 26
+ecg-ejj 26
+eci-ejj 26
+eda-ejj 26
+edc-ejj 26
+ede-ejj 26
+edg-ejj 26
+edi-ejj 26
+eea-ejj 26
+eec-ejj 26
+eee-ejj 26
+eeg-ejj 26
+eei-ejj 26
+efa-ejj 26
+efc-ejj 26
+efe-ejj 26
+efi-ejj 26
+egc-ejj 26
+ege-ejj 26
+egg-ejj 26
+egi-ejj 26
+eha-ejj 26
+ehc-ejj 26
+ehe-ejj 26
+ehg-ejj 26
+ehi-ejj 26
+eia-ejj 26
+eic-ejj 26
+eie-ejj 26
+eig-ejj 26
+eii-ejj 26
+eja-ejj 26
+ejc-ejj 26
+eje-ejj 26
+ejg-ejj 26
+eji-ejj 26
