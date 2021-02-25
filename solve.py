@@ -40,7 +40,7 @@ with open(filename+"_result.txt", "w+") as file:
         weights = {tup[1]: weightages[tup[1]] for tup in nodeDict[i][0]}
         intersectionSum = sum([n for n in weights.values()])
         if intersectionSum == 0:  # intersection is never visited, leave one light on by default
-            outputStringList.append("1\n" + nodeDict[i][0][0][1] + " 1")
+            outputStringList.append("1\n" + nodeDict[i][0][0][1] + " 1\n")
             continue
         times = {n: timeSlice * math.ceil(weights[n]/intersectionSum) for n in weights if weights[n] > 0}
         outputStringList.append(str(len(times))+"\n")
@@ -49,6 +49,7 @@ with open(filename+"_result.txt", "w+") as file:
 
     file.writelines(outputStringList)
 
+print("Finished output for", filename+".txt")
 # tester
 # print(D, I, S, V, F)
 # print(nodeDict)
