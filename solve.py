@@ -34,6 +34,10 @@ for i in range(V):
         except IndexError:
             weightages[carDict[i][j]] += (j + 1) * av / len(carDict[i])
 
+tot_weight = 0
+for key in weightages.keys():
+    tot_weight += weightages[key]
+
 timeSlice = min(int(math.sqrt(D)), D//10 + 10)  # time for each loop of lights
 
 outputStringList = []
@@ -48,7 +52,7 @@ with open(filename+"_result.txt", "w+") as file:
             continue
         # ratio of timeslice is based on weight of street/total weight of intersection
         # ceil because all of these have cars appearing at least once and we don't want to ignore them
-        times = {n: math.ceil(timeSlice * weights[n]/intersectionSum) for n in weights if weights[n] > 0}
+        times = {n: math.ceil(D * weights[n]/tot_weight) for n in weights if weights[n] > 0}
         outputStringList.append(str(len(times))+"\n")
         for name in times:
             outputStringList.append(name + " " + str(times[name]) + "\n")
